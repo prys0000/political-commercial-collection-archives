@@ -9,13 +9,11 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 # table of contents
 
-
 <details><summary>[**key research components**](#key-research-components)</summary>
 
 </details>
 
 <details><summary>[**description of case study**](#description-of-case-study)</summary>
-
 
 >> [Julian P. Kanter Archive](#Julian-P-Kanter-Archive)
 
@@ -37,30 +35,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 </details>
 
-
-**[I key research components](#key-research-components)**
-
-**[II description of case study](#description-of-case-study)**
-
-
->> [Julian P. Kanter Archive](#Julian-P-Kanter-Archive)
-
->> [collection growth and mismanagement issues](#collection-growth-and-mismanagement-issues)
-
->> [technological shifts and the increase in collection materials](#technological-shifts-and-increase-in-collection-materials)
-
->> [issues with system infrastructure and normalization](#issues-with-system-infrastructure-and-normalization)
-
->> [2019 data](#2019-data)
-
-**[III entropy and archival dis-order](#entropy-and-archival-dis-order)**
-
->> [identification of human-centered patterns](#identification-of-human-centered-patterns)
-
->> [backlogs as a critical point of failure](#backlogs-as-a-critical-point-of-failure)
-
-
-**[IV control methods](#control-methods)**
+<details><summary>[**control methods**](#control-methods)</summary>
 
 >> [data cleansing](#data-cleansing)
 
@@ -70,15 +45,31 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 >> [link data](#link-data)
 
-**[appendix 1  archival metadata 1985, 1996, 2003, 2012, 2019](#appendix-1-archival-metadata-1985-1996-2003-2012-2019)**
+</details>
 
-**[appendix 2 data accuracy index](#appendix-2-data-accuracy-index)**
+<details><summary>[**appendix 1  archival metadata**](#appendix-1-archival-metadata)
+</summary>
 
-**[appendix 3 additional resources](#appendix-3-additional-resources)**
+>> [1985](#appendix-1-archival-metadata-1985)
+
+>> [1996](#appendix-1-archival-metadata-1996)
+
+>> [2003](#appendix-1-archival-metadata-2003)
+
+>> [2019](#appendix-1-archival-metadata-2019)
+
+>> [current](#appendix-1-archival-metdata-current)
+</details>
+
+<details><summary>[**appendix 2 data accuracy index**](#appendix-2-data-accuracy-index)</summary></details>
+
+<details><summary>[**appendix 3 additional resources**](#appendix-3-additional-resources)</summary>
 
 >> [general references](#general-references)
 
 >> [unresolved issues further questions](#unresolved-issues-further-questions)
+
+</details>
 
 #
 
