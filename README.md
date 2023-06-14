@@ -1,10 +1,11 @@
 # political-commercial-collection-archives
 
 
-The Carl Albert Center, along with Harvard University and the University of Iowa, was awarded collaborative research grant funds from the National Science Foundation (NSF) for the project [Understanding the Evolution of Political Campaign Advertisements over the Last Century](https://s-lib024.lib.uiowa.edu/campaignvids/people.html) on February 3, 2022. ​
+The [Carl Albert Center Archives](https://www.ou.edu/carlalbertcenter/congressional-collection), along with Harvard University and the University of Iowa, was awarded collaborative research grant funds from the National Science Foundation (NSF) for the project ["Understanding the Evolution of Political Campaign Advertisements over the Last Century"](https://s-lib024.lib.uiowa.edu/campaignvids/people.html).
 
-The project has three specific aims: (1) make a large underutilized collection of  over 120,000 political ads (1912-2018) currently housed at the Carl Albert Center suitable for academic and non-academic research; (2) understand the evolution of political advertising, especially as it pertains to issue advocacy and gender/minority representations prior to 1996; and, (3) promote interdisciplinary graduate and undergraduate education in audiovisual analysis at research and teaching institutions. ​
+The project has three specific aims: (1) make a large underutilized collection of  over 120,000 political ads (1912-2016) currently housed at the Carl Albert Center suitable for academic and non-academic research; (2) understand the evolution of political advertising, especially as it pertains to issue advocacy and gender/minority representations prior to 1996; and, (3) promote interdisciplinary graduate and undergraduate education in audiovisual analysis at research and teaching institutions. ​
 
+The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. The project has provided invaluable insights and knowledge, despite the initial challenges encountered. This page was created to document our processes and share solutions which may benefit other collection entities. 
 
 # table of contents
 
@@ -51,7 +52,7 @@ The project has three specific aims: (1) make a large underutilized collection o
 
 >> [unresolved issues further questions](#unresolved-issues-further-questions)
 
-
+#
 
 # key research components
 
