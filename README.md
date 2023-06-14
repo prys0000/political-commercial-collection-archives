@@ -10,6 +10,34 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 # table of contents
 
 
+<details><summary>[**key research components**](#key-research-components)</summary>
+
+</details>
+
+<details><summary>[**description of case study**](#description-of-case-study)</summary>
+
+
+>> [Julian P. Kanter Archive](#Julian-P-Kanter-Archive)
+
+>> [collection growth and mismanagement issues](#collection-growth-and-mismanagement-issues)
+
+>> [technological shifts and the increase in collection materials](#technological-shifts-and-increase-in-collection-materials)
+
+>> [issues with system infrastructure and normalization](#issues-with-system-infrastructure-and-normalization)
+
+>> [2019 data](#2019-data)
+
+</details>
+
+<details><summary>[**entropy and archival dis-order**](#entropy-and-archival-dis-order)</summary>
+
+>> [identification of human-centered patterns](#identification-of-human-centered-patterns)
+
+>> [backlogs as a critical point of failure](#backlogs-as-a-critical-point-of-failure)
+
+</details>
+
+
 **[I key research components](#key-research-components)**
 
 **[II description of case study](#description-of-case-study)**
