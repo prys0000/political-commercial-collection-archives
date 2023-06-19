@@ -9,11 +9,11 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 # table of contents
 
-<details><summary>[**key research components**](#key-research-components)</summary>
+**key research components**
 
 </details>
 
-<details><summary>[**description of case study**](#description-of-case-study)</summary>
+**description of case study**
 
 >> [Julian P. Kanter Archive](#Julian-P-Kanter-Archive)
 
@@ -25,17 +25,15 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 >> [2019 data](#2019-data)
 
-</details>
 
-<details><summary>[**entropy and archival dis-order**](#entropy-and-archival-dis-order)</summary>
+**entropy and archival dis-order**
 
 >> [identification of human-centered patterns](#identification-of-human-centered-patterns)
 
 >> [backlogs as a critical point of failure](#backlogs-as-a-critical-point-of-failure)
 
-</details>
 
-<details><summary>[**control methods**](#control-methods)</summary>
+**control methods**
 
 >> [data cleansing](#data-cleansing)
 
@@ -45,10 +43,8 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 >> [link data](#link-data)
 
-</details>
 
-<details><summary>[**appendix 1  archival metadata**](#appendix-1-archival-metadata)
-</summary>
+**appendix 1  archival metadata**
 
 >> [1985](#appendix-1-archival-metadata-1985)
 
@@ -59,17 +55,16 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 >> [2019](#appendix-1-archival-metadata-2019)
 
 >> [current](#appendix-1-archival-metdata-current)
-</details>
 
-<details><summary>[**appendix 2 data accuracy index**](#appendix-2-data-accuracy-index)</summary></details>
 
-<details><summary>[**appendix 3 additional resources**](#appendix-3-additional-resources)</summary>
+**appendix 2 data accuracy index**
+
+**appendix 3 additional resources**
 
 >> [general references](#general-references)
 
 >> [unresolved issues further questions](#unresolved-issues-further-questions)
 
-</details>
 
 #
 
