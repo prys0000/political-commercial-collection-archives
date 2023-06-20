@@ -64,7 +64,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 #
 
-# key research components
+# [**key research components**](key-research-components)
 
 1. Address the challenges of insufficient documentation, undefined workflows, and limited funding in managing the growing collection of political ads.
 2. Develop workflows to effectively manage the existing collection of political ads.
