@@ -1,0 +1,46 @@
+Imports necessary libraries:
+
+os: Provides functions for interacting with the operating system.
+speech_recognition: Library for performing speech recognition.
+moviepy.editor: Library for working with video files.
+Initializes a speech recognizer:
+
+Creates an instance of the Recognizer class from the speech_recognition library, which is used for speech recognition tasks.
+Sets the folder path:
+
+Specifies the folder path where the video files are located. In this code, it is set to "C:/Users/ADMIN/OneDrive - University of Oklahoma/Desktop/SpeechReg/MP4_AccessCopies".
+Iterates through the files in the folder:
+
+Uses the os.listdir() function to get a list of all files in the specified folder.
+For each file, it performs the following operations:
+Loads the video file:
+
+Uses the VideoFileClip() function from the moviepy.editor library to load the video file specified by the file path.
+Extracts the audio from the video:
+
+Accesses the audio attribute of the VideoFileClip object to get the audio portion of the video.
+Saves the extracted audio as a temporary file:
+
+Writes the extracted audio to a temporary WAV file named "temp_audio.wav" using the write_audiofile() method of the AudioFileClip object.
+Opens the audio file for speech recognition:
+
+Uses the AudioFile() context manager from the speech_recognition library to open the temporary audio file.
+Loads the audio data to memory:
+
+Uses the record() method of the Recognizer object to load the audio data from the opened audio file.
+Performs speech recognition on the audio:
+
+Uses the recognize_google() method of the Recognizer object to transcribe the audio data using Google Speech Recognition.
+The transcribed text is stored in the transcript variable.
+Prints the transcript and extracted words:
+Prints the transcript of the speech recognition for the current video file.
+Splits the transcript into individual words and prints them.
+Saves the transcript to a text file:
+Creates a text file name by appending "_transcript.txt" to the original video file name.
+Writes the transcript text to the text file.
+Handles exceptions:
+Catches and handles UnknownValueError if speech recognition fails to transcribe the audio.
+Catches and handles RequestError if an error occurs during the speech recognition request.
+Deletes the temporary audio file:
+Closes the audio file using the close() method to release system resources.
+The code repeats the above steps for each video file in the specified folder, transcribing the audio and saving the transcript in a text file.

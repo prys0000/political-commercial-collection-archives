@@ -1,0 +1,27 @@
+C:\Users\ADMIN\PycharmProjects\pythonProject\venv\Scripts\python.exe "C:\Users\ADMIN\OneDrive - University of Oklahoma\Desktop\SpeechReg\speech1.py" 
+MoviePy - Writing audio in temp_audio.wav
+MoviePy - Done.
+Transcript for P-1463-71759.mp4: Tennessee's Lakes are important to us but powerful Congressional leaders want to sell our Lakes to private developers electric bills could Skyrocket access to the lake restricted that's a risk we can't take when I was growing up we couldn't afford expensive Vacations so my family went to the lake I bought three presidents keep a nuclear waste dump out of Tennessee and now I'm fighting to stop Congress from selling our Lakes because I've never forgotten where I came from and who I work for hard Gordon
+Words extracted from P-1463-71759.mp4: ["Tennessee's", 'Lakes', 'are', 'important', 'to', 'us', 'but', 'powerful', 'Congressional', 'leaders', 'want', 'to', 'sell', 'our', 'Lakes', 'to', 'private', 'developers', 'electric', 'bills', 'could', 'Skyrocket', 'access', 'to', 'the', 'lake', 'restricted', "that's", 'a', 'risk', 'we', "can't", 'take', 'when', 'I', 'was', 'growing', 'up', 'we', "couldn't", 'afford', 'expensive', 'Vacations', 'so', 'my', 'family', 'went', 'to', 'the', 'lake', 'I', 'bought', 'three', 'presidents', 'keep', 'a', 'nuclear', 'waste', 'dump', 'out', 'of', 'Tennessee', 'and', 'now', "I'm", 'fighting', 'to', 'stop', 'Congress', 'from', 'selling', 'our', 'Lakes', 'because', "I've", 'never', 'forgotten', 'where', 'I', 'came', 'from', 'and', 'who', 'I', 'work', 'for', 'hard', 'Gordon']
+Transcript saved to P-1463-71759.mp4_transcript.txt
+MoviePy - Writing audio in temp_audio.wav
+MoviePy - Done.
+Transcript for P-1522-75384.m4v: genuine welfare reform that requires able-bodied people to work that's the idea and places time limits on benefits and give them something in return dignity it will make a big difference call Lindsey Graham tell him to keep fighting for
+Words extracted from P-1522-75384.m4v: ['genuine', 'welfare', 'reform', 'that', 'requires', 'able-bodied', 'people', 'to', 'work', "that's", 'the', 'idea', 'and', 'places', 'time', 'limits', 'on', 'benefits', 'and', 'give', 'them', 'something', 'in', 'return', 'dignity', 'it', 'will', 'make', 'a', 'big', 'difference', 'call', 'Lindsey', 'Graham', 'tell', 'him', 'to', 'keep', 'fighting', 'for']
+Transcript saved to P-1522-75384.m4v_transcript.txt
+MoviePy - Writing audio in temp_audio.wav
+MoviePy - Done.
+Transcript for P-1841-104282.mp4: he grew up in Pickens County the first and his family to graduate from college then law school he served our nation in the air force today he still serves in the Air Force Reserve Lindsey Graham has always made us proud first in the state legislature now in Congress he strongly supports the death penalty for our worst Defenders including terrorists a major difference between Lindsey Graham and his opponent I'm here with one message I want Lindsey Graham elected to the United States Senate
+Words extracted from P-1841-104282.mp4: ['he', 'grew', 'up', 'in', 'Pickens', 'County', 'the', 'first', 'and', 'his', 'family', 'to', 'graduate', 'from', 'college', 'then', 'law', 'school', 'he', 'served', 'our', 'nation', 'in', 'the', 'air', 'force', 'today', 'he', 'still', 'serves', 'in', 'the', 'Air', 'Force', 'Reserve', 'Lindsey', 'Graham', 'has', 'always', 'made', 'us', 'proud', 'first', 'in', 'the', 'state', 'legislature', 'now', 'in', 'Congress', 'he', 'strongly', 'supports', 'the', 'death', 'penalty', 'for', 'our', 'worst', 'Defenders', 'including', 'terrorists', 'a', 'major', 'difference', 'between', 'Lindsey', 'Graham', 'and', 'his', 'opponent', "I'm", 'here', 'with', 'one', 'message', 'I', 'want', 'Lindsey', 'Graham', 'elected', 'to', 'the', 'United', 'States', 'Senate']
+Transcript saved to P-1841-104282.mp4_transcript.txt
+MoviePy - Writing audio in temp_audio.wav
+MoviePy - Done.
+Transcript for P-720-119861.m4v: I'm Lindsey Graham and I approve this message send it to Grandma has been a tremendous asset for our communities to bring people together and uncanny next to do that
+Words extracted from P-720-119861.m4v: ["I'm", 'Lindsey', 'Graham', 'and', 'I', 'approve', 'this', 'message', 'send', 'it', 'to', 'Grandma', 'has', 'been', 'a', 'tremendous', 'asset', 'for', 'our', 'communities', 'to', 'bring', 'people', 'together', 'and', 'uncanny', 'next', 'to', 'do', 'that']
+Transcript saved to P-720-119861.m4v_transcript.txt
+
+Elapsed time: 55.12214136123657 seconds
+
+Process finished with exit code 0
+
+C:\Users\ADMIN\Desktop\SpeechReg\MP4_AccessCopies
