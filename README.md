@@ -13,7 +13,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 [**description of case study**](description-of-case-study)
 
->> [Julian P. Kanter Archive](prys0000/political-commercial-collection-archives/documentation/case-study)
+>> [Julian P. Kanter Archive](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
 >> [collection growth and mismanagement issues](#collection-growth-and-mismanagement-issues)
 
