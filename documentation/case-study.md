@@ -1,4 +1,6 @@
-### review of case-study
+## review of case-study
+
+### julian p. kanter archive
 
 In the Spring of 2019, the University of Oklahoma experienced financial issues contributing to closing or cutting funding for campus collecting repositories. The Julian P. Kanter Archive once operated under the Communications Department with an impressive technological studio and lab environment named ‘The Political Communication Center’ (PCC)’ . In 1985, the University purchased the Archive from a private collector, Julian P. Kanter which contained 25,000 political commercials. 
 
@@ -26,7 +28,7 @@ Upon the acquisition of the Collection by the Center in 2019, a vast amount of p
 The initial arrangement of the Collection in 1978 followed an alphabetical order based on the candidate's name. It consisted of two parts: (1) an entry line containing the candidate's name and physical format information, and (2) a brief description of the candidate, a list of related items, and, whenever possible, details about the candidate's political party and specific election year.
 Commercials that did not involve candidates, such as those related to special interests, bond elections, or proposition elections, were listed separately without a specific order. In 1985, the handwritten inventory was transformed into a standardized 'form' that included both typewritten and handwritten text.
 
-[Inventory 1978](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory1978.jpg))
+[Inventory 1978](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory1978.jpg)
 
 In 1990, a comprehensive catalog was created to document the Collection, maintaining the original order, and incorporating OCLC access numbers whenever feasible. This catalog followed the Archives and Manuscript Control format (AMC). However, it was frequently observed that the item-level descriptive data was incomplete or missing, and there was limited availability of legacy metadata. 
 
@@ -34,7 +36,7 @@ In 1990, a comprehensive catalog was created to document the Collection, maintai
 
 In 2003, an updated catalog of the Collection was created, covering a total of 70,000 items categorized into three main components. The catalog provided details including (1) the last name of the candidate, (2) the election year, office, and party affiliation, and (3) the title, duration of the commercial, and a unique identification number. However, this revised catalog did not incorporate the identification numbers from the 1985, 1990, or 1996 documentation, and it lacked a coherent and logical sequence in its structure. 
 
-[Inventory_2003](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory2003.jpg
+[Inventory_2003](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory2003.jpg)
 
 
 In 2019, the metadata of the Collection underwent significant enhancements, incorporating more comprehensive information and introducing additional elements. This update involved the retrieval of identification numbers from previous catalogs and the introduction of a new category called 'P_COPY'. 
