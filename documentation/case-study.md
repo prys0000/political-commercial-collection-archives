@@ -26,20 +26,20 @@ Upon the acquisition of the Collection by the Center in 2019, a vast amount of p
 The initial arrangement of the Collection in 1978 followed an alphabetical order based on the candidate's name. It consisted of two parts: (1) an entry line containing the candidate's name and physical format information, and (2) a brief description of the candidate, a list of related items, and, whenever possible, details about the candidate's political party and specific election year.
 Commercials that did not involve candidates, such as those related to special interests, bond elections, or proposition elections, were listed separately without a specific order. In 1985, the handwritten inventory was transformed into a standardized 'form' that included both typewritten and handwritten text.
 
-[Inventory 1978](prys0000/political-commercial-collection-archives/images/Inventory1978.jpg)
+[Inventory 1978](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory1978.jpg))
 
 In 1990, a comprehensive catalog was created to document the Collection, maintaining the original order, and incorporating OCLC access numbers whenever feasible. This catalog followed the Archives and Manuscript Control format (AMC). However, it was frequently observed that the item-level descriptive data was incomplete or missing, and there was limited availability of legacy metadata. 
 
-[Inventory_1990](prys0000/political-commercial-collection-archives/images/Inventory1990.jpg)
+[Inventory_1990](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory1990.jpg)
 
 In 2003, an updated catalog of the Collection was created, covering a total of 70,000 items categorized into three main components. The catalog provided details including (1) the last name of the candidate, (2) the election year, office, and party affiliation, and (3) the title, duration of the commercial, and a unique identification number. However, this revised catalog did not incorporate the identification numbers from the 1985, 1990, or 1996 documentation, and it lacked a coherent and logical sequence in its structure. 
 
-[Inventory_2003](prys0000/political-commercial-collection-archives/images/Inventory2003.jpg)
+[Inventory_2003](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory2003.jpg
 
 
 In 2019, the metadata of the Collection underwent significant enhancements, incorporating more comprehensive information and introducing additional elements. This update involved the retrieval of identification numbers from previous catalogs and the introduction of a new category called 'P_COPY'. 
 
-[Inventory_2019](prys0000/political-commercial-collection-archives/images/Inventory2019.jpg)
+[Inventory_2019](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/Inventory2019.jpg)
 
 The inclusion of the 'P_COPY' identification number marked a significant and fundamental change in the identification of items within the collection. Each 'P_COPY' group served as the highest-level container, encompassing 2 to 150 ads. Within each 'P_COPY' group, the ads were arranged in sequential order based on the identification numbers assigned in the 2003 catalog .
 
