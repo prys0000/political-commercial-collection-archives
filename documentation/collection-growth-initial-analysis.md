@@ -27,7 +27,7 @@ Upon acquisition of the Collection, ads were categorized into broad or umbrella 
 
 Identifying specific campaign offices within the generalized headings requires additional extensive data research and analysis. Development of new archival groupings would be instrumental in long-term collection access and discoverability. 
 
-[headings](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/headings.jpg)
+[broad headings](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/headings.jpg)
 
 
 ### redundant files
@@ -38,11 +38,11 @@ Video composition or production elements and standards often result in intricate
 
 Political campaign-focused marketing strategies frequently require making minor adjustments and edits to the ads, leading to the creation of new 'unique' items customized for specific regional locations, marketing analyses, and other factors. These modifications encompass a range of changes, such as subtle alterations in depicted objects, variations in background materials, adjustments to the colors of buildings, cars, and people, and even slight modifications to the theme song or background music. 
 
-[insert image Similar video_1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/similar-diff-1%20copy.jpg)
+[Example 1 similar video_1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/similar-diff-1%20copy.jpg)
 
 The image exhibits a common issue within the collection. In comparison of two files, P-1463-71759 and P-1463-71760, both digital files appear to be possible duplicates with same digital file size and length of video. The metadata representing the files included exact title, creator, extent, and dates, however, when analyzing video data, the videos were not duplicate ads. 
 
-[P-1463–comp-sim-py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1463-comp-sim.jpg)
+[Example 2 similar videa 2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1463-comp-sim.jpg)
 
 Additionally initial analysis of the collection indicated inconsistencies with candidate names, parties, or other descriptive attributes. Some variations may be more challenging to detect, such as non-standard frame heights or widths, which are sometimes employed to adhere to network limitations or address copyright concerns during later stages of ad design.
 
