@@ -13,9 +13,9 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 > [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
-> [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+>> [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 
-> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+>> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
 >> [issues with system infrastructure and normalization](#issues-with-system-infrastructure-and-normalization)
 
