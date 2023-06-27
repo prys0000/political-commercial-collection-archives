@@ -9,11 +9,11 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 # table of contents
 
-[**key research components**](key-research-components)
+> [**key research components**](key-research-components)
 
-[**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
+> [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
-[**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+> [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 
 >> [technological shifts and the increase in collection materials](#technological-shifts-and-increase-in-collection-materials)
 
