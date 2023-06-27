@@ -4,7 +4,7 @@ With multiple decades separating many of the acquired materials and entirely dif
 
 During the process of integrating the collection data and formatting the available records, a closer examination revealed the need for a primary and secondary identification number . It became apparent that the P_COPY identification number served as a top-level grouping container, encompassing various item-level components referred to as OID numbers. This insight provided a deeper understanding of the hierarchical structure within the dataset and facilitated more granular analysis and organization.
 
-[P_COPY-1]
+[P_COPY-1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P_COPY-1.jpg) 
 
 ## redundancy – 2
 
