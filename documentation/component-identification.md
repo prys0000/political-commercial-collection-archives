@@ -14,3 +14,6 @@ As an example, during text analysis, two files, P-1139-49189 and P-1935-130892, 
 
 [P-1139-P-1935-2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1139-P-1935-2.jpg)
 
+___________________________________________
+### footnotes:
+1. Combining collection inventories, notes, and other historical documents identified various identifications which have been mentioned in previous sections. Other identification numbers included: NID, PCA_ID, and various legacy identification items. 
