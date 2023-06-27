@@ -6,7 +6,7 @@ The collection is comprehensive, covering all 50 states of the United States. Ad
 
 Over time, the collection has significantly grown and now encompasses 4,677 unique candidate names, spanning a period of 104 years . It includes a wide range of political offices including expanded state, city, county campaigns and represents 40 political parties. The collection also includes over 1,500 identified production agencies or political action committees as creators .
 
-[collection count](prys0000/political-commercial-collection-archives/images/count-collection-1985-2003.jpg](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/count-collection-1985-2003.jpg)
+[collection count](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/count-collection-1985-2003.jpg)
 
 The considerable scale of the Collection and its varied content presented substantial challenges and complexities during the (re)ingestion, (re)inventorying, and cataloging processes. Legacy information was not provided in initial acquisition efforts which would account for collection verification, changes in structure, or integrity checking. 
 
