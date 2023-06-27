@@ -9,7 +9,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 # table of contents
 
-> [**key research components**](key-research-components)
+# **key research components**
 
 > [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
