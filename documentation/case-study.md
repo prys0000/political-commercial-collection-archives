@@ -47,6 +47,11 @@ The inclusion of the 'P_COPY' identification number marked a significant and fun
 
 During the initial investigation, we could not find any documentation supporting the creation of the P_COPY categorization. It is worth noting that the letter 'P' typically indicated that a file could be the 'preservation' copy. However, the process of selecting and assigning ads into the 'P' groupings was not identified. As we continued to (re)process the Collection, we discovered several illogical groupings within this category.
 
+By 2022, controlled methodological workflows were developed to respond to discovered issues and increase the collection control. Legacy metadata was not discarded; instead, it was extracted and retained in collection records. Corrected or additional data was recorded using controlled vocabulary lists, providing structure to this phase of reprocessing.
+
+[Inventory_2022](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/2022%20Inventory.jpg)
+
+The [issues with system infrastructure and normalization](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md) section focuses on component identification, standardization, and other challenges that have been identified through investigative analysis and the normalization process.
 ____________
 
 ### footnotes:
