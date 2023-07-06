@@ -50,7 +50,7 @@ Political campaign-focused marketing strategies frequently require making minor 
 
 The image exhibits a common issue within the collection. In comparison of two files, P-1463-71759 and P-1463-71760, both digital files appear to be possible duplicates with same digital file size and length of video. The metadata representing the files included exact title, creator, extent, and dates, however, when analyzing video data, the videos were not duplicate ads. 
 
-[Example 2 similar videa 2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1463-comp-sim.jpg)
+[Example 2 similar video 2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1463-comp-sim.jpg)
 
 Additionally initial analysis of the collection indicated inconsistencies with candidate names, parties, or other descriptive attributes. Some variations may be more challenging to detect, such as non-standard frame heights or widths, which are sometimes employed to adhere to network limitations or address copyright concerns during later stages of ad design.
 
