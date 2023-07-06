@@ -12,6 +12,8 @@ During the process of integrating the collection data and formatting the availab
 
 [P_COPY-1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P_COPY-1.jpg)
 
+[P_COPY combination-explaination](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P_COPY-combine.jpg) 
+
 ### redundancy – 2
 
 The amalgamation of the P_COPY and OID numbers resulted in the creation of the Unique ID, which serves as a categorical identifier for individual ads in the collection. In order to ensure data accuracy and avoid redundancy, additional redundancy checks were implemented after integrating the collection data. It is common for files in the collection to have multiple iterations, including both digital and analog items that have not been digitized yet.
