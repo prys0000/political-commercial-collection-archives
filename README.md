@@ -7,9 +7,15 @@ The project has three specific aims: (1) make a large underutilized collection o
 
 The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. The project has provided invaluable insights and knowledge, despite the initial challenges encountered. This page was created to document our processes and share solutions which may benefit other collection entities. 
 
-# table of contents
+#### **key research components**
 
-**key research components**
+- Address the challenges of insufficient documentation, undefined workflows, and limited funding in managing the growing collection of political ads.
+- Develop workflows to effectively manage the existing collection of political ads.
+- Define strategies to ensure the long-term accessibility and usability of its digital political ad collection.
+- Explore and define practical solutions and best practices in managing and preserving large archival collections in academic settings.
+
+
+## table of contents
 
 [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
@@ -66,10 +72,5 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 #
 
-# [**key research components**](key-research-components)
 
-1. Address the challenges of insufficient documentation, undefined workflows, and limited funding in managing the growing collection of political ads.
-2. Develop workflows to effectively manage the existing collection of political ads.
-3. Define strategies to ensure the long-term accessibility and usability of its digital political ad collection.
-4. Explore and define practical solutions and best practices in managing and preserving large archival collections in academic settings.
 
