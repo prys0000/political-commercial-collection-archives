@@ -11,52 +11,56 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 **key research components**
 
-> [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
+[**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
->> [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+  > [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 
->> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+  > [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
->> [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
+  > [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
 
->>> [**initial codes and processes-folder of tools**](#2019-data)
-
+  >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
+<br>
 
 [**entropy and archival dis-order**](entropy-and-archival-disorder)
 
->> [identification of human-centered patterns](#identification-of-human-centered-patterns)
+> [identification of human-centered patterns](#identification-of-human-centered-patterns)
 
->> [backlogs as a critical point of failure](#backlogs-as-a-critical-point-of-failure)
+> [backlogs as a critical point of failure](#backlogs-as-a-critical-point-of-failure)
+<br>
 
 [**control methods**](control-methods)
 
->> [data cleansing](#data-cleansing)
+> [data cleansing](#data-cleansing)
 
->> [data aggregation](#data-aggregation)
+> [data aggregation](#data-aggregation)
 
->> [standardization](#standardization)
+> [standardization](#standardization)
 
->> [link data](#link-data)
+> [link data](#link-data)
+<br>
 
 [**appendix 1  archival metadata**](appendix-1)
 
->> [1985](#appendix-1-archival-metadata-1985)
+> [1985](#appendix-1-archival-metadata-1985)
 
->> [1996](#appendix-1-archival-metadata-1996)
+> [1996](#appendix-1-archival-metadata-1996)
 
->> [2003](#appendix-1-archival-metadata-2003)
+> [2003](#appendix-1-archival-metadata-2003)
 
->> [2019](#appendix-1-archival-metadata-2019)
+> [2019](#appendix-1-archival-metadata-2019)
 
->> [current](#appendix-1-archival-metdata-current)
+> [current](#appendix-1-archival-metdata-current)
+<br>
 
 [**appendix 2 data accuracy index**](appendix-2)
+<br>
 
 [**appendix 3 additional resources**](appendix-3)
 
->> [general references](#general-references)
+> [general references](#general-references)
 
->> [unresolved issues further questions](#unresolved-issues-further-questions)
+> [unresolved issues further questions](#unresolved-issues-further-questions)
 
 
 
