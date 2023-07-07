@@ -17,9 +17,9 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 >> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
->> [issues with system infrastructure and normalization](#issues-with-system-infrastructure-and-normalization)
+>> [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
 
->> [2019 data](#2019-data)
+>>> [**initial codes and processes-folder of tools**](#2019-data)
 
 
 [**entropy and archival dis-order**](entropy-and-archival-disorder)
