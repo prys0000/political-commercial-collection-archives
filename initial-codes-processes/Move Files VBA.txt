@@ -1,0 +1,52 @@
+MOVE files or COPY files using: ALT+F11, then paste the text. Hit F5 to select the list range then OK pops up source folder then OK pops up destination folder (automatically runs) (ALSO you need to add extension (i.e. .mpg, .mp4, whatever the files literal name is) 
+
+
+Sub movefiles() 
+
+'Updateby Extendoffice 
+
+    Dim xRg As Range, xCell As Range 
+
+    Dim xSFileDlg As FileDialog, xDFileDlg As FileDialog 
+
+    Dim xSPathStr As Variant, xDPathStr As Variant 
+
+    Dim xVal As String 
+
+    On Error Resume Next 
+
+    Set xRg = Application.InputBox("Please select the file names:", "KuTools For Excel", ActiveWindow.RangeSelection.Address, , , , , 8) 
+
+    If xRg Is Nothing Then Exit Sub 
+
+    Set xSFileDlg = Application.FileDialog(msoFileDialogFolderPicker) 
+
+    xSFileDlg.Title = " Please select the original folder:" 
+
+    If xSFileDlg.Show <> -1 Then Exit Sub 
+
+    xSPathStr = xSFileDlg.SelectedItems.Item(1) & "\" 
+
+    Set xDFileDlg = Application.FileDialog(msoFileDialogFolderPicker) 
+
+    xDFileDlg.Title = " Please select the destination folder:" 
+
+    If xDFileDlg.Show <> -1 Then Exit Sub 
+
+    xDPathStr = xDFileDlg.SelectedItems.Item(1) & "\" 
+
+    For Each xCell In xRg 
+
+        xVal = xCell.Value 
+
+        If TypeName(xVal) = "String" And xVal <> "" Then 
+
+            FileCopy xSPathStr & xVal, xDPathStr & xVal 
+
+            Kill xSPathStr & xVal 
+
+        End If 
+
+    Next 
+
+End Sub 

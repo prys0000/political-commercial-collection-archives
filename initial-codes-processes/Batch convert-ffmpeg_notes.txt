@@ -1,0 +1,3 @@
+To use FFMpeg as a batch converter to convert videos from MPEG to MP4 format with a watermark, you can use the subprocess module in Python. 
+
+This code loops through the MPEG videos in the input directory, performs the conversion using FFMpeg with the specified watermark, and saves the output MP4 files in the output directory. The overlay filter is used to add the watermark to the videos.
