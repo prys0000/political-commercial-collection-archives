@@ -55,6 +55,9 @@ By 2022, controlled methodological workflows were developed to respond to discov
 The [issues with system infrastructure and normalization](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md) section focuses on component identification, standardization, and other challenges that have been identified through investigative analysis and the normalization process.
 
 **_Note:_**  to review early content management techniques view – [initial-codes-processes]( https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes)
+
+
+# [NEXT -->](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 ____________
 
 ### footnotes:
