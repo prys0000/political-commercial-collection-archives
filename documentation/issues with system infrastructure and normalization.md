@@ -27,18 +27,20 @@ The amalgamation of the P_COPY and OID numbers resulted in the creation of the U
 
 By normalizing the corpus of information in the archival collection, it becomes possible to conduct data quality checking processes to identify contradictory, inaccurate, or new instances of redundancy. This normalization process helps filter and narrow down the volume of data, enabling the application of [content mitigation analysis – example-1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/speechpy-text-excel_template.py) [notes](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/speechpy-text-excel_notes.txt), [content mitigation analysis – example-2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/fuzzy-frames-comp_template.py) [notes](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/fuzzy-frames-comp_notes.txt) techniques. As a result, inconsistencies and redundancies can be more effectively detected and addressed, improving the overall reliability and usability of the archival data.
 
-  >**example-1:** As an example, during text analysis, two files, P-1139-49189 and P-1935-130892, showed a high similarity score. However, further analysis through video examination revealed that these files were &nbsp; distinct and not similar. This process helped to clarify and differentiate between the files, ensuring accurate categorization and avoiding duplication.
+**example-1:** As an example, during text analysis, two files, P-1139-49189 and P-1935-130892, showed a high similarity score. However, further analysis through video examination revealed that these files were &nbsp; distinct and not similar. This process helped to clarify and differentiate between the files, ensuring accurate categorization and avoiding duplication.
 
   - [P-1139-P-1935-1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1139-P-1935-1.jpg)
   - [P-1139-P-1935-2](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/P-1139-P-1935-2.jpg)
 
->**example-2:** Another common barrier to data cohesion and content mitigation was actual video production discrepencies including slight variations in music, text overlays, objects within video frames, and other visual aspects. These differences create unique collection items and require accurate analysis and categorization of the ads.
+**example-2:** Another common barrier to data cohesion and content mitigation was actual video production discrepencies including slight variations in music, text overlays, objects within video frames, and other visual aspects. These differences create unique collection items and require accurate analysis and categorization of the ads.
 
 Political campaign-focused marketing strategies frequently require making minor adjustments and edits to the ads, leading to the creation of new 'unique' items customized for specific regional locations, marketing analyses, and other factors. These modifications encompass a range of changes, such as subtle alterations in depicted objects, variations in background materials, adjustments to the colors of buildings, cars, and people, and even slight modifications to the theme song or background music. 
 
-[similarity in ads P-1463-71760 and P-1463-71759](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/similar-diff-1%20copy.jpg)
+**WATCH the videos side-by-side:**
 
-[![Watch](https://i.ytimg.com/an_webp/nx6MqTxNS_U/mqdefault_6s.webp?du=3000&sqp=CJaUsaUG&rs=AOn4CLDp5oMifZH4PsrgfKABmR5F_WaDVA)](https://youtu.be/nx6MqTxNS_U)
+[![**WATCH**](https://i.ytimg.com/an_webp/nx6MqTxNS_U/mqdefault_6s.webp?du=3000&sqp=CJaUsaUG&rs=AOn4CLDp5oMifZH4PsrgfKABmR5F_WaDVA)](https://youtu.be/nx6MqTxNS_U)    
+
+[similarity in ads P-1463-71760 and P-1463-71759](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/similar-diff-1%20copy.jpg)
 
 
 The image exhibits a common issue within the collection. In comparison of two files, P-1463-71759 and P-1463-71760, both digital files appear to be possible duplicates with same digital file size and length of video. The metadata representing the files included exact title, creator, extent, and dates, however, when analyzing video data, the videos were not duplicate ads. 
