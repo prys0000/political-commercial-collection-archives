@@ -60,6 +60,8 @@ Additionally initial analysis of the collection indicated inconsistencies with c
 
 In order to identify and analyze the collection in greater detail, extract additional pattern of errors or variation requires the use of comparison algorithms and collection specific methodologies. By developing fundamental platforms of analysis, the level of similarity or differences between files can be measured more accurately to depict uniqueness. This approach contributes to the effective organization of the collection and ensures that each item is accurately classified based on its specific characteristics[^4].
 
+# [NEXT -->](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
+
 ### footnotes:
 [^1]: Numerical counts were tabulated from research and deduction from data analysis by the author. 
 [^2]: These numbers have been calculated through data cleansing, management, and (re)processing of the collection. The counts involving creators, political action groups, and candidate names can change upon discovery of additional elements or changes. 
