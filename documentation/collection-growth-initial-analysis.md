@@ -37,7 +37,7 @@ Upon acquisition of the Collection, ads were categorized into broad or umbrella 
 
 Identifying specific campaign offices within the generalized headings requires additional extensive data research and analysis. Development of new archival groupings would be instrumental in long-term collection access and discoverability. 
 
-[headings](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/headings.jpg)
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/headings-1.jpg" width=60% height=60%> 
 
 [controlled-vocab-1](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/controlled-1.jpg)
 
