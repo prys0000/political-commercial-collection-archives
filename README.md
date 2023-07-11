@@ -28,45 +28,45 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
   >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
 <br>
 
-[**entropy and archival dis-order**](entropy-and-archival-disorder)
+[**entropy and archival dis-order**]
 
-> [identification of human-centered patterns](#identification-of-human-centered-patterns)
+> [identification of human-centered patterns]
 
 > [backlogs as a critical point of failure](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/backlogs.md)
 <br>
 
-[**control methods**](control-methods)
+[**control methods**]
 
-> [data cleansing](#data-cleansing)
+> [data cleansing]
 
-> [data aggregation](#data-aggregation)
+> [data aggregation]
 
-> [standardization](#standardization)
+> [standardization]
 
-> [link data](#link-data)
+> [link data]
 <br>
 
-[**appendix 1  archival metadata**](appendix-1)
+[**appendix 1  archival metadata**]
 
-> [1985](#appendix-1-archival-metadata-1985)
+> [1985]
 
-> [1996](#appendix-1-archival-metadata-1996)
+> [1996]
 
-> [2003](#appendix-1-archival-metadata-2003)
+> [2003]
 
-> [2019](#appendix-1-archival-metadata-2019)
+> [2019]
 
-> [current](#appendix-1-archival-metdata-current)
+> [current]
 <br>
 
-[**appendix 2 data accuracy index**](appendix-2)
+[**appendix 2 data accuracy index**]
 <br>
 
-[**appendix 3 additional resources**](appendix-3)
+[**appendix 3 additional resources**]
 
-> [general references](#general-references)
+> [general references]
 
-> [unresolved issues further questions](#unresolved-issues-further-questions)
+> [unresolved issues further questions]
 
 
 
