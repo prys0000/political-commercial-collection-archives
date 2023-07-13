@@ -1,40 +1,45 @@
 import os
 import speech_recognition as sr
-from pydub import AudioSegment
 import pandas as pd
 
+# Folder path containing audio files
+folder_path = r'D:\GITHUB\Practice\radio files'
 
-def transcribe_audio(folder_path):
-    recognizer = sr.Recognizer()
+# List to store the extracted text and file names
+data = []
 
-    filenames = []
-    transcripts = []
+# Initialize a speech recognizer object
+recognizer = sr.Recognizer()
 
-    for filename in os.listdir(folder_path):
-        if filename.endswith('.mp3'):
+# Iterate over the files in the folder
+for filename in os.listdir(folder_path):
+    # Check if the file is an audio file (you can customize the check based on your file types)
+    if filename.endswith('.wav') or filename.endswith('.mp3') or filename.endswith('.flac'):
+        try:
+            # Construct the full file path
             file_path = os.path.join(folder_path, filename)
 
-            # Convert mp3 file to wav
-            audio = AudioSegment.from_mp3(file_path)
-            audio.export("temp.wav", format="wav")
-
-            # Transcribe audio file
-            with sr.AudioFile("temp.wav") as source:
+            # Load the audio file
+            with sr.AudioFile(file_path) as source:
+                # Read the audio data
                 audio = recognizer.record(source)
-                transcript = recognizer.recognize_sphinx(audio)
 
-            filenames.append(filename)
-            transcripts.append(transcript)
+                # Perform speech recognition
+                text = recognizer.recognize_google(audio)
 
-    # Delete temporary .wav file
-    if os.path.exists("temp.wav"):
-        os.remove("temp.wav")
+                # Append the extracted text and file name to the data list
+                data.append({'File Name': filename, 'Text': text})
+        except Exception as e:
+            # Handle any errors that occur during the process
+            print(f"Error processing {filename}: {e}")
 
-    df = pd.DataFrame({
-        'Filename': filenames,
-        'Transcript': transcripts
-    })
-    df.to_excel('transcripts.xlsx', index=False)
+# Create a DataFrame from the data
+df = pd.DataFrame(data)
 
+# Output file path for the Excel file
+output_path = r'D:\GITHUB\Practice\radiooutput.xlsx'
 
-transcribe_audio(r'D:\GITHUB\Practice\radio files')
+# Write the DataFrame to an Excel file
+df.to_excel(output_path, index=False)
+
+print(f"Text extraction completed. Results saved in {output_path}.")
