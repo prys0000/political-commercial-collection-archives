@@ -1,6 +1,6 @@
-## practice exercises 
+## practice exercises - radio (audio only) files
 
-### small batch of audio files from born-digital collection with limited metadata
+### small batch of audio files with limited available metadata
 
 This workflow will provide an ***example*** of a baseline processing workflow. The files are from the Julian P. Kanter Political Commercial Collection in the way they were acquired by the Center.
 
