@@ -36,9 +36,8 @@ By normalizing the corpus of information in the archival collection, it becomes 
 
 Political campaign-focused marketing strategies frequently require making minor adjustments and edits to the ads, leading to the creation of new 'unique' items customized for specific regional locations, marketing analyses, and other factors. These modifications encompass a range of changes, such as subtle alterations in depicted objects, variations in background materials, adjustments to the colors of buildings, cars, and people, and even slight modifications to the theme song or background music. 
 
-**WATCH the videos side-by-side:**
+[**WATCH the videos side-by-side:**](https://youtu.be/nx6MqTxNS_U)    
 
-[![**WATCH**](https://i.ytimg.com/an_webp/nx6MqTxNS_U/mqdefault_6s.webp?du=3000&sqp=CJaUsaUG&rs=AOn4CLDp5oMifZH4PsrgfKABmR5F_WaDVA)](https://youtu.be/nx6MqTxNS_U)    
 
 [similarity in ads P-1463-71760 and P-1463-71759](https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/similar-diff-1%20copy.jpg)
 
