@@ -23,16 +23,15 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
   > [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
-  > [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
-
-  >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
 <br>
 
 [**entropy and archival dis-order**]
 
-> [identification of human-centered patterns]
+  > [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
 
-> [backlogs as a critical point of failure](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/backlogs.md)
+  >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
+
+> [**backlogs as a critical point of failure**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/backlogs.md)
 <br>
 
 [**control methods**]
