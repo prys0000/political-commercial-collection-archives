@@ -24,7 +24,8 @@ A critical challenge faced by collection managers is the identification of limit
 The result is ineffective processes having become commonplace as certain variables and conditions have been normalized over an extended period. As a result, the focus has shifted towards reactive crisis management rather than the implementation of sustainable, long-term solutions.
 
 
-### addressing workflow
+
+
 
 
 
