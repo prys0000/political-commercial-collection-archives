@@ -38,7 +38,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 > [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
-> [data aggregation]
+> [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
 
 > [standardization]
 
