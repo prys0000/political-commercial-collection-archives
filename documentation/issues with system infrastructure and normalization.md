@@ -50,7 +50,7 @@ Additionally initial analysis of the collection indicated inconsistencies with c
 
 In order to identify and analyze the collection in greater detail, extract additional pattern of errors or variation requires the use of comparison algorithms and collection specific methodologies. By developing fundamental platforms of analysis, the level of similarity or differences between files can be measured more accurately to depict uniqueness. This approach contributes to the effective organization of the collection and ensures that each item is accurately classified based on its specific characteristics .
 
-
+# [NEXT -->](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/backlogs.md)
 ___________________________________________
 ### footnotes:
 [^1]: The image provided illustrates the implementation of a controlled vocabulary/thesaurus in this project, customized to cover various aspects such as content, creators, candidates, and other campaign-related information.By employing controlled vocabulary, the processing of information by students and staff becomes more efficient and accurate, as it helps narrow down criteria and ensure consistency.
