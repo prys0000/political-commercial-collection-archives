@@ -49,11 +49,13 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 > [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
 
-  >> [**sample student access ‘groups C’ processes**]
+  >> [**sample student access 'groups A-B' processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20A-B%20processes.md)
 
-  >> [**sample student access ‘groups QA-Rover-1’ processes**]
+  >> [**sample student access ‘groups C’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20C%20processes.md)
 
-  >> [**sample student access ‘groups QA-Rover-1 processes**]
+  >> [**sample student access ‘groups QA-Rover-1’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-1.md)
+
+  >> [**sample student access ‘groups QA-Rover-1 processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-2.md)
 
 
 
