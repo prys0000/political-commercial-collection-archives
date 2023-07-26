@@ -1,0 +1,29 @@
+This script compares two text files and identifies the differing words between them using the difflib library. It then saves the differing words to a new text file called differing_words.txt.
+
+Here's a breakdown of the script:
+
+Import the SequenceMatcher class from the difflib library.
+
+Define the compare_text_files function, which takes two file paths (file1 and file2) as inputs.
+
+Read the contents of the first file (file1) and store it in the variable text1.
+
+Read the contents of the second file (file2) and store it in the variable text2.
+
+Split the contents of both files into individual words using the split() method.
+
+Compare the words from both files to find differing words. The script uses the symmetric difference (^) operator on sets of words (set(words1) and set(words2)) to find words that are unique to each file.
+
+Save the differing words to a new text file called differing_words.txt. The script opens the file in write mode ('w') and writes each differing word to a new line in the file.
+
+Print a message indicating that the differing words have been saved to differing_words.txt.
+
+Provide the paths to the two text files (file1_path and file2_path).
+
+Call the compare_text_files function with the provided file paths to perform the comparison.
+
+The script is useful for identifying differences between two text files and can be used for text comparison tasks, such as checking the variations between different versions of a document or detecting changes in content between two similar files.
+
+
+
+
