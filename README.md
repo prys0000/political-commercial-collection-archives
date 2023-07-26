@@ -124,7 +124,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 - **Internships and Volunteers** (partial)
   - Brian Bennet, History (Spring 2023)
   - Lindsay Chapman, Library and Information Studies (Spring 2022)
-  - Stacy Fox, Library and Information Studies (Fall 2021, Fall 2022)
+  - Stacy Fox, Library and Information Studies (Fall 2021, Fall 2022) [fox.sk12@yahoo.com](fox.sk12@yahoo.com )
   - Mike Hogsett, Information Science and Technology (Fall 2021)
   - Garret Johnson, Library and Information Studies (Summer 2021)
   - Jillienne Kirkpatrick, Library and Information Studies (Summer 2022)
