@@ -17,17 +17,14 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 ## table of contents
 
-<br>
 
-[**introduction**]
+### **introduction**
 
   > [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
-  
  
-<br>
 
-[**entropy and archival dis-order**]
+### **entropy and archival dis-order**
 
 > [**collection growth-the internet effect and backlogs**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 
@@ -35,17 +32,15 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
   >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
 
-<br>
 
-[**control methods**]
+### **control methods**
 
 > [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
 > [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
-<br>
 
-[**implementation-workflow-phase 1 processes**]
+### **implementation-workflow-phase 1 processes**
 
 > [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
 
@@ -59,9 +54,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 
 
-<br>
-
-[**appendices**]
+### **appendices**
 
 > [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20of%20codes.md)
 
@@ -74,15 +67,19 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 >> [unresolved issues further questions]
 
 
-#
-
-## students 
+### student contributors (graduate and undergraduate)
 
 - **Alyssa Cotts** - [alyssia.n.cotts-1@ou.edu](alyssia.n.cotts-1@ou.edu)
   - Library and Information Studies (Fall 2022 - present)
     - Rearrangement of collections
     - Finding aid creation/edit/update
 
+- **Maitrik Das** - [maitrik.das-1@ou.edu](maitrik.das-1@ou.edu)
+  - Data Science and Analytics (Fall 2022)
+    - Rearrangement of collections
+    - Metadata collection
+    - Video editing
+      
 - **Sabrina Denmon, MLIS** - [sabrina.m.denmon-1@ou.edu](sabrina.m.denmon-1@ou.edu)
   - Library and Information Studies (Fall 2022 - Summer 2023)
     - Analog to digital preservation
@@ -91,7 +88,7 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
     - Rearrangement of collections
     - Finding aid creation/edit/update
 
-- **Jovana Dragovic** - [jovana.dragovic@ou.edu](jovana.dragovic@ou.edu}
+- **Jovana Dragovic** - [jovana.dragovic@ou.edu](jovana.dragovic@ou.edu)
   - Aviation (Spring 2023-present)
     - Metadata collection
     - QC workflow
@@ -119,11 +116,16 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
     -  Analog to digital preservation
     -  Metadata collection
 
-- **Internships and Volunteers**
+- **Internships and Volunteers** (partial)
   - Brian Bennet, History (Spring 2023)
-  - Garret Johnson, Library and Information Studies (Summer 2022)
+  - Lindsay Chapman, Library and Information Studies (Spring 2022)
+  - Stacy Fox, Library and Information Studies (Fall 2021, Fall 2022)
+  - Mike Hogsett, Information Science and Technology (Fall 2021)
+  - Garret Johnson, Library and Information Studies (Summer 2021)
   - Jillienne Kirkpatrick, Library and Information Studies (Summer 2022)
   - Lexie McIntosh, Native American Studies (Spring 2022)
+  - Minh T. Duong, Information Science (Spring 2021)
+  - Alex Powell, Information Studies (Summer 2021)
   - Miguel Rodriguez, Library and Information Studies (Summer 2022)
   - Kasey Santucci, History (Spring 2023)
     
