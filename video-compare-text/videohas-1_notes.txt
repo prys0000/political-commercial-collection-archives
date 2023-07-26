@@ -1,0 +1,35 @@
+This script is for comparing video hashes using the VideoHash library. The script compares the perceptual hashes of different video files to determine their similarity or dissimilarity.
+
+Here's what each part of the script does:
+
+Import the VideoHash class from the videohash library.
+
+Initialize VideoHash objects for two video files (path1 and path2). The ffmpeg_path parameter provides the path to the FFmpeg executable, which is needed for video processing.
+
+Calculate the difference between the two video hashes using the - operator and print the result.
+
+Check if the two video hashes are similar using the is_similar() method and print the result.
+
+Initialize another VideoHash object for a third video file (path3).
+
+Check if the third video hash is similar to the first video hash using the is_similar() method and print the result.
+
+Check if the third video hash is different from the second video hash using the is_different() method and print the result.
+
+Calculate the difference between the third video hash and the first video hash using the - operator and print the result.
+
+Calculate the difference between the third video hash and the second video hash using the - operator and print the result.
+
+Initialize another VideoHash object for a fourth video file (path4) without specifying the ffmpeg_path parameter, assuming the FFmpeg executable is in the system's PATH.
+
+Check if the fourth video hash is equal to the first video hash using the == operator and print the result.
+
+Calculate the difference between the fourth video hash and the first video hash using the - operator and print the result.
+
+Check if the fourth video hash is similar to the second video hash using the is_similar() method and print the result.
+
+Check if the fourth video hash is similar to itself using the is_similar() method and print the result.
+
+Check if the fourth video hash is similar to the third video hash using the is_similar() method and print the result.
+
+The VideoHash library provides a way to generate perceptual hashes from video frames, and the comparison methods allow you to assess the similarity or dissimilarity of video content using these hashes. The script demonstrates how to use the VideoHash library to perform such comparisons.
