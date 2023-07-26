@@ -17,32 +17,46 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 ## table of contents
 
-[**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
+<br>
 
-  > [**collection growth and intial analysis**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+[**introduction**]
 
-  > [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+  > [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
+  
+ 
 <br>
 
 [**entropy and archival dis-order**]
 
-  > [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
+> [**collection growth-the internet effect and backlogs**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+
+> [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
 
   >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
 
-> [**backlogs as a critical point of failure**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/backlogs.md)
 <br>
 
 [**control methods**]
 
+> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+
 > [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
+
+<br>
+
+[**implementation-workflow-phase 1 processes**]
 
 > [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
 
-> [standardization]
+  >> [**sample student access ‘groups C’ processes**]
 
-> [link data]
+  >> [**sample student access ‘groups QA-Rover-1’ processes**]
+
+  >> [**sample student access ‘groups QA-Rover-1 processes**]
+
+
+
 <br>
 
 [**appendix 1  archival metadata**]
