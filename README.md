@@ -76,9 +76,57 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 #
 
-## contact information
+## students 
 
+- **Alyssa Cotts** - [alyssia.n.cotts-1@ou.edu](alyssia.n.cotts-1@ou.edu)
+  - Library and Information Studies (Fall 2022 - present)
+    - Rearrangement of collections
+    - Finding aid creation/edit/update
 
+- **Sabrina Denmon, MLIS** - [sabrina.m.denmon-1@ou.edu](sabrina.m.denmon-1@ou.edu)
+  - Library and Information Studies (Fall 2022 - Summer 2023)
+    - Analog to digital preservation
+    - Digitization, master
+    - Metadata collection
+    - Rearrangement of collections
+    - Finding aid creation/edit/update
+
+- **Jovana Dragovic** - [jovana.dragovic@ou.edu](jovana.dragovic@ou.edu}
+  - Aviation (Spring 2023-present)
+    - Metadata collection
+    - QC workflow
+
+- **Alessio Hall**
+  - Business (B.S.), Criminal Justice (M.S.) (Spring 2019 - Spring 2022)
+    - Data aggregation
+    - Workflow development
+    - Arrangement of collection
+    - Finding aid creation
+    - Policy creation
+
+- **Kristi Hendricks** - [kristigail@ou.edu](kristigail@ou.edu)
+   - Library and Information Studies (Spring 2023 - present)
+     - Physical rearrangement of collections
+    
+- **William Miller** - [willmiller@ou.edu](willmiller@ou.edu)
+   - Political Science (Spring 2021 - present)
+     - Rearrangement of collections
+     - Finding aid creation
+     - Worflow development
+    
+- **Zoe Sanders** - [zoesanders@ou.edu](zoesanders@ou.edu)
+  -  Political Science (Spring 2023 - present)
+    -  Analog to digital preservation
+    -  Metadata collection
+
+- **Internships and Volunteers**
+  - Brian Bennet, History (Spring 2023)
+  - Garret Johnson, Library and Information Studies (Summer 2022)
+  - Jillienne Kirkpatrick, Library and Information Studies (Summer 2022)
+  - Lexie McIntosh, Native American Studies (Spring 2022)
+  - Miguel Rodriguez, Library and Information Studies (Summer 2022)
+  - Kasey Santucci, History (Spring 2023)
+    
 
 
 
