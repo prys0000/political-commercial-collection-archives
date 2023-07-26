@@ -61,31 +61,26 @@ The Carl Albert Center Archives' task focused on the first aim (1) by providing 
 
 <br>
 
-[**appendix 1  archival metadata**]
+[**appendices**]
 
-> [1985]
+> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20of%20codes.md)
 
-> [1996]
+> [**appendix 2 data accuracy index**]
 
-> [2003]
+> [**appendix 3 additional resources**]
 
-> [2019]
+>> [general references]
 
-> [current]
-<br>
-
-[**appendix 2 data accuracy index**]
-<br>
-
-[**appendix 3 additional resources**]
-
-> [general references]
-
-> [unresolved issues further questions]
-
+>> [unresolved issues further questions]
 
 
 #
+
+## contact information
+
+
+
+
 
 
 
