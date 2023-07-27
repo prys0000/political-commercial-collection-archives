@@ -125,9 +125,9 @@ This repository contains a collection of **workflow tools, Python scripting temp
      - Worflow development
     
 - **Zoe Sanders** - [zoesanders@ou.edu](zoesanders@ou.edu)
-    -  Political Science (Spring 2023 - present)
-      -  Analog to digital preservation
-      -  Metadata collection
+    - Political Science (Spring 2023 - present)
+      - Analog to digital preservation
+      - Metadata collection
 
 - **Internships and Volunteers** (partial)
   - Brian Bennet, History (Spring 2023, graduated BS)
