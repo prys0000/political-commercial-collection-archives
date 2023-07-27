@@ -1,4 +1,4 @@
-# appendix 1 - python list of codes
+# appendix 1 - python list and instructions
 
 ## Install Python and configure PyCharm
 
