@@ -10,7 +10,7 @@
 #
 ## audio processing/transcription scripts
 
-### [**audio-recog.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/audio-recog.py):
+### [**audio-recog.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/audio-recog.py)
 This script performs speech recognition on audio files located in a specified folder. It uses the SpeechRecognition library (speech_recognition) to convert speech in audio files into text and outputs results in formatted excel. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -50,7 +50,7 @@ recognizer = sr.Recognizer()
 ***Note: Make sure to have the appropriate permissions to read the audio files and write the Excel file in the specified file paths. The script will automatically create the 'radiooutput.xlsx' file if it does not exist. If you need to process audio files with different extensions, modify the condition in the if statement accordingly.***
 
 #
-### [**speech-1_template.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/speechpy-text-excel_template.py).
+### [**speech-1_template.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/speechpy-text-excel_template.py)
 This code performs automatic transcription of audio from video files using the Google Speech Recognition API and outputs to individual .txt files as well as comprhensive excel sheet.
 Here are the instructions to use the code:
 
@@ -104,7 +104,7 @@ Run the Code: After making the necessary modifications and ensuring the existenc
 # 
 ## text manipulation scripts
 
-### [**word-excel-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/excel-format-.py):
+### [**word-excel-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/excel-format-.py)
 This script takes a Word document (.docx) as input and converts its content into a formatted Excel file. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -133,7 +133,7 @@ import os
 
 #
 #
-### [**combo-replace-add-class.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/combo-replace-add-class.py):
+### [**combo-replace-add-class.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/combo-replace-add-class.py)
 This script demonstrates data processing and manipulation using the pandas library. It involves loading data from an Excel file, applying transformations to the data, and saving the results to a new Excel file. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -165,7 +165,7 @@ import pandas as pd
 #
 #
 
-### [**names-extract.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/names-extraction.py):
+### [**names-extract.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/names-extraction.py)
 This script extracts proper nouns (defined) from text data stored in an Excel file (NLP can be added and terms defined).
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -221,7 +221,7 @@ Run the Code: After making the necessary modifications and ensuring the existenc
 #
 #
 
-### [**pattern-structure2i.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/pattern-font-structure-date(2i).py):
+### [**pattern-structure2i.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/pattern-font-structure-date(2i).py)
 This script is used to format and highlight dates (editable terms, dates, structures depending on definition) in a Word document and transform to defined lists/standards. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
