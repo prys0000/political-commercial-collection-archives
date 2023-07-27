@@ -1,6 +1,6 @@
 # appendix 1 - python list and instructions
 
-## Install Python and configure PyCharm
+## install Python and configure PyCharm
 
 * Download and install [**Python**](http://www.python.org/) -- Windows user, we recommend that you install [**Python for Windows**](https://www.python.org/downloads/windows/)
 
