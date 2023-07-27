@@ -1,3 +1,5 @@
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/images/polithumb_home.jpg" width=8% height=8%>
+
 # political-commercial-collection-archives
 
 The [Carl Albert Center Archives](https://www.ou.edu/carlalbertcenter/congressional-collection), along with Harvard University and the University of Iowa, was awarded collaborative research grant funds from the National Science Foundation (NSF) for the project ["Understanding the Evolution of Political Campaign Advertisements over the Last Century"](https://s-lib024.lib.uiowa.edu/campaignvids/people.html).
@@ -70,9 +72,15 @@ This repository contains a collection of **workflow tools, Python scripting temp
 >> [unresolved issues further questions]
 
 #
-#
+## communication
 
-### student contributors (graduate and undergraduate)
+- email: [japryse@ou.edu](japryse@ou.edu) or [cacarchives@ou.edu](cacarchives@ou.edu)
+- homepage: [carl albert center archives](https://www.ou.edu/carlalbertcenter/congressional-collection)
+- twitter: [@CarlAlbertCtr](https://twitter.com/CarlAlbertCtr)
+- finding aid: [https://arc.ou.edu/](https://arc.ou.edu/)
+
+#
+## student contributors (graduate and undergraduate)
 
 - **Alyssa Cotts** - [alyssia.n.cotts-1@ou.edu](alyssia.n.cotts-1@ou.edu)
   - Library and Information Studies (Fall 2022 - present)
@@ -117,19 +125,20 @@ This repository contains a collection of **workflow tools, Python scripting temp
      - Worflow development
     
 - **Zoe Sanders** - [zoesanders@ou.edu](zoesanders@ou.edu)
-  -  Political Science (Spring 2023 - present)
-    -  Analog to digital preservation
-    -  Metadata collection
+    -  Political Science (Spring 2023 - present)
+      -  Analog to digital preservation
+      -  Metadata collection
 
 - **Internships and Volunteers** (partial)
-  - Brian Bennet, History (Spring 2023)
-  - Lindsay Chapman, Library and Information Studies (Spring 2022)
-  - [Stacy Fox](fox.sk12@yahoo.com ), Library and Information Studies (Fall 2021, Fall 2022)
-  - Mike Hogsett, Information Science and Technology (Fall 2021)
+  - Brian Bennet, History (Spring 2023, graduated BS)
+  - Lindsey Chapman, Library and Information Studies (Spring 2022, graduated MLIS)
+  - [Stacy Fox](fox.sk12@yahoo.com ), Library and Information Studies (Fall 2021, Fall 2022, graduated MLIS)
+  - [Mike Hogsett](https://www.linkedin.com/in/mike-hogsett/), Information Science and Technology (Fall 2021, graduated BS)
   - Garret Johnson, Library and Information Studies (Summer 2021)
-  - Jillienne Kirkpatrick, Library and Information Studies (Summer 2022)
+  - [Jillienne Kirkpatrick](jillieskp@ou.edu), Library and Information Studies (Summer 2022)
+  - [Carson Low](https://www.linkedin.com/in/carson-low-bb3343233/), Information technology (Fall 2022, graduated BS)
   - Lexie McIntosh, Native American Studies (Spring 2022)
-  - Minh T. Duong, Information Science (Spring 2021)
+  - [Minh T. Duong](minh.t.duong-1@ou.edu), Information Science (Spring 2021)
   - Alex Powell, Information Studies (Summer 2021)
   - Miguel Rodriguez, Library and Information Studies (Summer 2022)
   - Kasey Santucci, History (Spring 2023)
