@@ -11,7 +11,7 @@
 ## audio processing/transcription scripts
 
 ### [**audio-recog.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/audio-recog.py)
-This script performs speech recognition on audio files located in a specified folder. It uses the SpeechRecognition library (speech_recognition) to convert speech in audio files into text and outputs results in formatted excel. 
+This script performs speech recognition on audio files located in a specified folder. It uses the [SpeechRecognition](https://github.com/Prabal1902/Simple-Python-speech-recognition) library (speech_recognition) to convert speech in audio files into text and outputs results in formatted excel. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
 
@@ -51,7 +51,7 @@ recognizer = sr.Recognizer()
 
 #
 ### [**speech-1_template.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/speechpy-text-excel_template.py)
-This code performs automatic transcription of audio from video files using the Google Speech Recognition API and outputs to individual .txt files as well as comprhensive excel sheet.
+This code performs automatic transcription of audio from video files using [SpeechRecognition](https://github.com/Prabal1902/Simple-Python-speech-recognition) and outputs to individual .txt files as well as comprhensive excel sheet.
 Here are the instructions to use the code:
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -166,7 +166,7 @@ import pandas as pd
 #
 
 ### [**names-extract.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/names-extraction.py)
-This script extracts proper nouns (defined) from text data stored in an Excel file (NLP can be added and terms defined).
+This script extracts proper nouns (defined) from text data stored in an Excel file by using [nltk-ner tools](https://github.com/nltk/nltk). Named entities are real-world objects such as names of people, organizations, locations, dates, etc...(***see the next script for information on the simple creation of training a model to address specific content i.e. political science terminology)
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
 
@@ -252,8 +252,90 @@ import os
 #
 #
 
+### [nltk-training-1]
+To use existing political science data as your dataset for fine-tuning an NER model, you would need a collection of text data relevant to political science, such as academic papers, news articles, reports, or any other text sources that contain named entities related to politics, politicians, organizations, political parties, countries, etc.
+
+Next, you would need to annotate this data with named entities. The annotations would involve marking specific spans of text that represent named entities and assigning labels to them (e.g., PERSON, ORG, GPE for people, organizations, and geopolitical entities).
+
+Once you have your annotated political science dataset, you can follow the steps:
+
+Prepare Data:
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+
+# Load the annotated data from the CSV file
+data = pd.read_csv("political_data.csv")
+
+# Split the data into training and evaluation sets
+train_data, eval_data = train_test_split(data, test_size=0.2, random_state=42)
+```
+
+Load Pre-trained Model:
+
+```python
+import spacy
+
+# Load the pre-trained spaCy model with NER
+nlp = spacy.load("en_core_web_sm")
+```
+
+Now you have the pre-trained spaCy model with NER loaded, and you can use it for various NLP tasks, including Named Entity Recognition, on your political science data.
+
+#
+#
+
+### [nltk-trained-use-2]
+This script allows you to use the trained model to analyze and extract named entities from (.pdf, .docx, .csv, .xlsx, etc...)
+
+Load the trained NER model: Use the spacy.load function to load your trained NER model. 
+
+```python
+import spacy
+
+# Load your trained NER model
+nlp = spacy.load("path_to_your_trained_model")
+```
+
+Extract text from the PDF: 
+
+```python
+import PyPDF2
+
+def extract_text_from_pdf(pdf_file_path):
+    with open(pdf_file_path, 'rb') as file:
+        reader = PyPDF2.PdfFileReader(file)
+        text = ""
+        for page_num in range(reader.numPages):
+            page = reader.getPage(page_num)
+            text += page.extract_text()
+    return text
+
+# Replace 'path_to_your_pdf_file' with the actual path to your PDF file
+pdf_text = extract_text_from_pdf('path_to_your_pdf_file')
+```
+
+Process the text with the NER model:
+
+```python
+# Process the text with the NER model
+doc = nlp(pdf_text)
+
+# Access named entities and their labels
+for ent in doc.ents:
+    print(ent.text, ent.label_)
+```
+
+Analyze the results: The code above will print out the named entities and their labels detected by your trained NER model in the PDF text.
+
+***Note: Make sure that your trained NER model is fine-tuned on a dataset that closely resembles the domain and context of the text in your PDF. Additionally, be aware that PDFs might have varying structures and complexities, and the accuracy of NER extraction may depend on the quality and format of the PDF content. It's always a good idea to test the NER model on different PDFs to assess its performance.***
+
+#
+#
+
 ### [**listwords-comp-text.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/listwords-comp-text.py)
-This script compares two text files and identifies the differing words between them using the difflib library. It then saves the differing words to a new text file called differing_words.txt.
+This script compares two text files and identifies the differing words between them using the [difflib library](https://github.com/python/cpython/blob/main/Lib/difflib.py). It then saves the differing words to a new text file called differing_words.txt.
 
 Here are the instructions to use the code:
 
@@ -293,7 +375,7 @@ Run the Code: Save the script with a .py extension and run it using Python. The 
 #
 
 ### [**clean-QA-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/initial-codes-processes/Cleaning-QA-1.py)
-This code performs several data cleaning and sorting operations on a worksheet (CSV file) using the pandas library and the language_tool_python library for language checking.
+This code performs several data cleaning and sorting operations on a worksheet (CSV file) using the pandas library and the [language_tool_python library](https://github.com/jxmorris12/language_tool_python) for language checking.
 
 Here are the instructions to use the code:
 
