@@ -1,4 +1,4 @@
-# practice exercises - https://github.com/prys0000/political-commercial-collection-archives/tree/main/practice
+# practice exercises
 
 ### radio (audio only) files
 
