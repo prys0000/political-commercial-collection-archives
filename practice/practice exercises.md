@@ -25,30 +25,73 @@ This document provides instructions for practicing a baseline processing workflo
 
 <img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/picture%20-%20pattern-format-example.png" width=40% height=40%>
 	
-### Step 3: Create Structured Excel
+### Step 4: Create Structured Excel
 
 1. Create an Excel file from the resulting .docx file above to provide a structured excel file. Use the [word-excel-1.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/word-excel-1.py) script to generate rows and columns.
 2. The resulting Excel file will divide the pdf at every recognition of the term *"received"* easier to merge with transcriptions in the next step.
 
 	* **reults:**
 	
+	
 <img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-word-excel-1.png" width=40% height=40%>
 
-### Step 4: Transcribe Audio Files
 
-1. Run the audio-recog.py script to quickly transcribe the audio files.
-2. The script will generate an Excel file with the current titles of the audio files in one column and the transcribed text in another column.
+### Step 5: Analyze Excel and Clear Issues Affecting Data 
 
-### Step 5: Extract Named Entities
+1. Issue 1: Inches Representation
 
-1. Run the names-extract.py script to recognize and extract proper nouns (names of people, places, organizations, etc.).
-2. The script will place the extracted named entities into a new column in the Excel file.
+	- The inches are represented inconsistently as "ll" and "11", |1, || throughout the file when referring to audio formats. We know audio reels come in various sizes, such as 3", 5", 7", and 10".
+	- Resolution: Replace the inconsistent characters "ll" and "11" with the appropriate format sizes (3", 5", 7", 10"). 
+	- Add the term "format:" to the text to clarify the audio format.
 
-### Step 6: Data Comparison and Cleanup
+2. Issue 2: Time Representation
 
-1. Use Python scripts to compare the result files and link document names from steps 2b and 4.
-2. Run a Python error check script to clean up or highlight significant errors in the result file from step 5.
+	- Time is represented inconsistently throughout the original documents, using seconds (e.g., :10, :30, :60) and, in some cases, "minutes."
+	- The Python script has identified 3" followed by :30 as "JII:JO," which needs to be replaced with the correct terms.
+
+3. Issue 3: Other Identifiable Terminology 
+
+	- Continue to identify additional issues that affect data management. 
+	- Record identifiable conditions and elements to build an effective script (states, titles, special characters)
+
+4. Run the [replace-add-format](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/replace-add-format.py) script to assist in managing the data. 	
+
+
+### Step 6: Transcribe Audio Files
+
+1. Access the [radio.wav files](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/README_radio%20files.md).
+2. Consider the titles, sizes, length and other notable characteristics of the sample of audio files. (*hint: there may not be any discernable notable elements) 
+2. Run the [audio-recog.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/audio-recog.py) script that performs speech recognition on audio files and extracts the speech content from them. It utilizes the SpeechRecognition library (speech_recognition).
+2. The script (for this example)will generate an Excel file with the current titles of the audio files in one column and the transcribed text in another column.
+
+* **reults:**
+
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-audio-recognition.png" width=40% heigh=40%>
+
+
+### Step 7: Extract Named Entities
+
+1. Run the [names-extract.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/names-extraction.py) script to recognize and extract proper nouns (names of people, places, organizations, etc.).
+2. The script will place the extracted named entities into a new column in the Excel file. These results will assist in the next step. 
+
+* **reults:**
+
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-names-extraction.png" width=40% height=40%>
+
+3. (*Alternate*) Run the [advanced names extraction](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/1-start-nltk.py) script for training and using a NEW named entity recognition model to extract named entities from excel, pdf, or other file type.  An alternate to this script is available for political science data that we have used for this project [start-nltk.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/start-nltk.py) which was created from an [annotated control list](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/ner_training_politicalscience.csv) and [ner structured list from annotated](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/ner_results.csv). 
+
+
+### Step 8: Data Cleanup
+
+1. Run [standard-fuzzy-clean-1.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/standard-fuzzy-clean-1.py) script to perform fuzzy string matching to standardize values (from controlled vocabulary or other sources) in specific columns of an Excel file based on a reference column containing the standardized values.
+2. Run [clean-1.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/clean-1.py) to clean text data by checking cell contents, verifying text, removing leading or trailing spaces, spelling, entity identification, and standardized data from previous steps. 
 3. Analyze the data and resolve issues like inconsistent formatting or terminologies.
+
+
+### Step 9: Compare and Link Data
+
+1. Run [record-link.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/record-link.py) script to  identify and link records in two different datasets that likely refer to the same entity, despite variations in data formatting or errors. *Note: The threshold used in the classification step (len(df1.columns) times 0.75) can be adjusted according to the specific needs and characteristics of the datasets being compared. Lowering the threshold may increase the likelihood of finding matches but also increase the chances of false positives. Conversely, raising the threshold may reduce the chances of false positives but may also miss potential matches. The threshold should be fine-tuned based on the data and use case.*
+
 
 ### Step 7: Create a Working Metadata Worksheet
 
