@@ -61,7 +61,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **appendices**
 
-> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20of%20codes.md)
+> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20and%20instructions.md)
 
 > [**appendix 2 data accuracy index**]
 
