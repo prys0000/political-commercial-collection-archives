@@ -2,6 +2,8 @@
 
 ## install Python and configure PyCharm
 
+* Setting up the environment [**cheat sheet**](https://github.com/prys0000/congressional-portal-project/blob/main/setting-up.md) 
+
 * Download and install [**Python**](http://www.python.org/) -- Windows user, we recommend that you install [**Python for Windows**](https://www.python.org/downloads/windows/)
 
 * Configure at least one [**Python interpreter**](https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html)
