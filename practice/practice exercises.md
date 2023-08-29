@@ -1,4 +1,4 @@
-# practice exercises - https://github.com/prys0000/political-commercial-collection-archives/tree/main/practice
+# practice exercises
 
 ### radio (audio only) files
 
@@ -30,7 +30,7 @@ This document provides instructions for practicing a baseline processing workflo
 1. Create an Excel file from the resulting .docx file above to provide a structured excel file. Use the [word-excel-1.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/word-excel-1.py) script to generate rows and columns.
 2. The resulting Excel file will divide the pdf at every recognition of the term *"received"* easier to merge with transcriptions in the next step.
 
-	* **reults:**
+	* **results:**
 	
 	
 <img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-word-excel-1.png" width=40% height=40%>
@@ -64,7 +64,7 @@ This document provides instructions for practicing a baseline processing workflo
 2. Run the [audio-recog.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/audio-recog.py) script that performs speech recognition on audio files and extracts the speech content from them. It utilizes the SpeechRecognition library (speech_recognition).
 2. The script (for this example)will generate an Excel file with the current titles of the audio files in one column and the transcribed text in another column.
 
-* **reults:**
+* **results:**
 
 <img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-audio-recognition.png" width=40% heigh=40%>
 
@@ -74,7 +74,7 @@ This document provides instructions for practicing a baseline processing workflo
 1. Run the [names-extract.py](https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/names-extraction.py) script to recognize and extract proper nouns (names of people, places, organizations, etc.).
 2. The script will place the extracted named entities into a new column in the Excel file. These results will assist in the next step. 
 
-* **reults:**
+* **results:**
 
 <img src="https://github.com/prys0000/political-commercial-collection-archives/blob/main/practice/radio%20documents/results-names-extraction.png" width=40% height=40%>
 

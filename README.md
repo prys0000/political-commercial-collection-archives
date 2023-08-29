@@ -40,7 +40,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **control methods**
 
-> [**unified component idenficiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+> [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
 > [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
@@ -61,7 +61,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **appendices**
 
-> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20of%20codes.md)
+> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20and%20instructions.md)
 
 > [**appendix 2 data accuracy index**]
 
@@ -71,7 +71,11 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 >> [unresolved issues further questions]
 
-#
+
+
+## student contributors (graduate and undergraduate)
+See [**acknowledgements**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/acknowledgements.md) for more information
+
 ## communication
 
 - email: [japryse@ou.edu](japryse@ou.edu) or [cacarchives@ou.edu](cacarchives@ou.edu)
@@ -79,70 +83,9 @@ This repository contains a collection of **workflow tools, Python scripting temp
 - twitter: [@CarlAlbertCtr](https://twitter.com/CarlAlbertCtr)
 - finding aid: [https://arc.ou.edu/](https://arc.ou.edu/)
 
-#
-## student contributors (graduate and undergraduate)
+## license
 
-- **Alyssa Cotts** - [alyssia.n.cotts-1@ou.edu](alyssia.n.cotts-1@ou.edu)
-  - Library and Information Studies (Fall 2022 - present)
-    - Rearrangement of collections
-    - Finding aid creation/edit/update
-
-- **Maitrik Das** - [maitrik.das-1@ou.edu](maitrik.das-1@ou.edu)
-  - Data Science and Analytics (Fall 2022)
-    - Rearrangement of collections
-    - Metadata collection
-    - Video editing
-      
-- **Sabrina Denmon, MLIS** - [sabrina.m.denmon-1@ou.edu](sabrina.m.denmon-1@ou.edu)
-  - Library and Information Studies (Fall 2022 - Summer 2023)
-    - Analog to digital preservation
-    - Digitization, master
-    - Metadata collection
-    - Rearrangement of collections
-    - Finding aid creation/edit/update
-
-- **Jovana Dragovic** - [jovana.dragovic@ou.edu](jovana.dragovic@ou.edu)
-  - Aviation (Spring 2023-present)
-    - Metadata collection
-    - QC workflow
-
-- **Alessio Hall**
-  - Business (B.S.), Criminal Justice (M.S.) (Spring 2019 - Spring 2022)
-    - Data aggregation
-    - Workflow development
-    - Arrangement of collection
-    - Finding aid creation
-    - Policy creation
-
-- **Kristi Hendricks** - [kristigail@ou.edu](kristigail@ou.edu)
-   - Library and Information Studies (Spring 2023 - present)
-     - Physical rearrangement of collections
-    
-- **William Miller** - [willmiller@ou.edu](willmiller@ou.edu)
-   - Political Science (Spring 2021 - present)
-     - Rearrangement of collections
-     - Finding aid creation
-     - Worflow development
-    
-- **Zoe Sanders** - [zoesanders@ou.edu](zoesanders@ou.edu)
-    - Political Science (Spring 2023 - present)
-      - Analog to digital preservation
-      - Metadata collection
-
-- **Internships and Volunteers** (partial)
-  - Brian Bennet, History (Spring 2023, graduated BS)
-  - Lindsey Chapman, Library and Information Studies (Spring 2022, graduated MLIS)
-  - [Stacy Fox](fox.sk12@yahoo.com ), Library and Information Studies (Fall 2021, Fall 2022, graduated MLIS)
-  - [Mike Hogsett](https://www.linkedin.com/in/mike-hogsett/), Information Science and Technology (Fall 2021, graduated BS)
-  - Garret Johnson, Library and Information Studies (Summer 2021)
-  - [Jillienne Kirkpatrick](jillieskp@ou.edu), Library and Information Studies (Summer 2022)
-  - [Carson Low](https://www.linkedin.com/in/carson-low-bb3343233/), Information technology (Fall 2022, graduated BS)
-  - Lexie McIntosh, Native American Studies (Spring 2022)
-  - [Minh T. Duong](minh.t.duong-1@ou.edu), Information Science (Spring 2021)
-  - Alex Powell, Information Studies (Summer 2021)
-  - Miguel Rodriguez, Library and Information Studies (Summer 2022)
-  - Kasey Santucci, History (Spring 2023)
-    
+See [LICENSE](https://github.com/prys0000/congressional-portal-project/blob/main/LICENSE.md) for more information.
 
 
 

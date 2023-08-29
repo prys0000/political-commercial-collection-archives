@@ -12,7 +12,7 @@ The workflow was organized based on academic semesters (Fall, Spring, Summer) an
 Automated delivery points were set up for each folder, triggering updates and reports. Once the work was completed, it was deposited into a Quality Assurance (QA) folder, which automatically assigned it to the groups responsible for quality checking. After undergoing two QA checks, the work was automatically sent to the collection archivist for finalization and preparation for the second phase[^1].
 
 #
-**Sample Student Access ‘Groups A-B’ Processes:**
+**Sample Student Access [‘Groups A-B’](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20A-B%20processes.md) Processes:**
 
 1. Sort sheet by LAST NAME – FIRST NAME (workflow specific) 
 2. Implement [**controlled standardization script**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/combo-replace-add-class.py) to standardize irregularities  (must be 87% confidence to edit)
@@ -31,7 +31,7 @@ Automated delivery points were set up for each folder, triggering updates and re
 8. Backup files  
 
 #
-**Sample Student Access ‘Groups C’ Processes:**
+**Sample Student Access [‘Groups C’](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20C%20processes.md) Processes:**
 
 1. Sort sheet by LAST NAME – FIRST NAME (workflow specific) 
 2. Run [**fuzzy-comp-1 script**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/initial-codes-processes/names-abbrv-fuzzycomp-C.py) to verify NAMES and ABBREVIATIONS and make sure they are in the CONTROL-SHEET-TAB-TEXT and CONTROL-SHEET-TAB-ABBRV.
@@ -41,7 +41,7 @@ Automated delivery points were set up for each folder, triggering updates and re
 6. Backup files
 
 #
-**Sample Student Access ‘Groups QA-Rover-1' Processes:**
+**Sample Student Access [‘Groups QA-Rover-1'](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-1.md) Processes:**
 
 1. Files will be automatically added to the assigned QA/R folder
 2. Perform data validation and standardization based on the controlled vocabulary with [**QA-1 script**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/initial-codes-processes/QA-1.py). This script will identify and handle any errors or inconsistencies in the data. This will generate a report highlighting the issues found and suggest possible corrections.
@@ -49,7 +49,7 @@ Automated delivery points were set up for each folder, triggering updates and re
 4. Backup files
 
 #
- **Sample Student Access ‘Groups QA-Rover-2' Processes:**
+ **Sample Student Access [‘Groups QA-Rover-2'](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-2.md) Processes:**
 
 1. Open new metadata worksheet and sort by ‘Component ID’
 2. Open ‘KanterVideos’ folder, CTRL+A, right click SHIFT, copy as path
@@ -58,9 +58,9 @@ Automated delivery points were set up for each folder, triggering updates and re
 5. Select both columns and in excel in the ‘Home’  ‘Conditional Formatting’  ‘Highlight Cell Rules’  ‘Duplicate Values’
 6. Review the files that are in both videos and excel by sorting the columns by cell color, clear the cells leaving only the non-duplicates
    
-<br/>
+#
 
-### --this will begin a new phase of the project--
+# [NEXT for appendices-->](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20and%20instructions.md)
 
 
 <br/>
