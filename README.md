@@ -25,53 +25,53 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **introduction**
 
-  > [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
+  * [**overview of case study/background of collection**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/case-study.md)
 
  
 
 ### **entropy and archival dis-order**
 
-> [**collection growth-the internet effect and backlogs**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
+* [**collection growth-the internet effect and backlogs**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/collection-growth-initial-analysis.md)
 
-> [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
+* [**issues with system infrastructure and normalization**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/issues%20with%20system%20infrastructure%20and%20normalization.md)
 
-  >> [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
+  * [**initial codes and processes-folder of tools**](https://github.com/prys0000/political-commercial-collection-archives/tree/main/initial-codes-processes) 
 
 
 ### **control methods**
 
-> [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+* [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
 
-> [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
+* [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
 
 ### **implementation-workflow-phase 1 processes**
 
-> [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
+* [**implementation and workflow**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/implementation-workflow.md)
 
-  >> [**sample student access 'groups A-B' processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20A-B%20processes.md)
+  * [**sample student access 'groups A-B' processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20A-B%20processes.md)
 
-  >> [**sample student access ‘groups C’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20C%20processes.md)
+  * [**sample student access ‘groups C’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20C%20processes.md)
 
-  >> [**sample student access ‘groups QA-Rover-1’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-1.md)
+  * [**sample student access ‘groups QA-Rover-1’ processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-1.md)
 
-  >> [**sample student access ‘groups QA-Rover-1 processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-2.md)
+  * [**sample student access ‘groups QA-Rover-1 processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-2.md)
 
 
 
 ### **appendices**
 
-> [**appendix 1 - python lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20and%20instructions.md)
+* [**appendix 1 - building a python environment, lists and instructions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%201%20-%20python%20list%20and%20instructions.md)
 
-> [**appendix 2 - common workflows for audio and video file processing]
+* [**appendix 2 - common workflows for audio and video file transcriptions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%202%20-%20common-workflows-transcriptions.md)
 
-> [**appendix 2 data accuracy index**]
+* [**appendix 2 data accuracy index**]
 
-> [**appendix 3 additional resources**]
+* [**appendix 3 additional resources**]
 
->> [general references]
+  * [general references]
 
->> [unresolved issues further questions]
+* [unresolved issues further questions]
 
 
 
