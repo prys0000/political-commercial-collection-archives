@@ -2,7 +2,8 @@
 
 ### Physical Inspection
 
-During the re-processing of our physical collections, we encountered various complexities, which we have documented on this page along with their corresponding solutions.
+During the re-processing of our physical collections, we encountered various complexities, which we have documented on this page along with their corresponding solutions. 
+***This comprehensive documentation process ensures the accuracy and usability of our digital and physical collections.***
 
 **Assumptions**
 1. In the large cold room storage area, we identified two separate groups of boxes. Each box had a label with a large-font number, and additional numbers were listed below:
@@ -32,10 +33,14 @@ As we inspected the items within the boxes, we identified comments such as "poss
 * (2) Matching all exact text to each UNIQUE ID.
 * (3) We created 'NOTES' in the 'NOTES' column to document all matching files and preserved legacy notes, shifting them to a sub-column.
 * (4) Due to programming limitations and the extensive collection, data processing was carried out systematically by office.
+ 
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/1ccaf7507930d7260cf98df3649176d24da516af/images/trans-fuzzy.png">
+
 6. We used the [**FuzzyTrans.py**] script with varying thresholds to identify "similar" files and documented them:
 * For instance, we looked for minor alterations or additional content at the end of advertisements.
 * This is essential for research and usability purposes, as it enables a more accurate description of videos, preventing information overload.
 7. New documentation was added to the Master List, along with notes from the physical investigation of items. Additional notes for exact matches or similar items included identifying the analog format (e.g., 1" videotape P-1859-255669 vs. 3/4" videotape P-582-19665 vs. VHS videotape P-185-2085). These notes help determine the "original" or "most complete" copy of the ad, which can be handled accordingly. For example, 1" was created in 1956, 3/4" in 1971, and VHS in 1976.
 
-**This comprehensive documentation process ensures the accuracy and usability of our digital and physical collections.**
+    
+      
 
