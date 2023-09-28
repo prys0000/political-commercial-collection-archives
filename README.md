@@ -57,7 +57,9 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
   * [**sample student access ‘groups QA-Rover-1 processes**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/groups%20QA-Rover-2.md)
 
+### **updates and issues - further research**
 
+* [**physical inspection - issues - solutions**](https://github.com/prys0000/political-commercial-collection-archives/blob/210039a5f27d2264fa19ebe9076ac9c3a5902902/appendix%203%20-%20follow-up.md)
 
 ### **appendices**
 
@@ -70,8 +72,6 @@ This repository contains a collection of **workflow tools, Python scripting temp
 * [**appendix 3 additional resources**]
 
   * [general references]
-
-* [unresolved issues further questions]
 
 
 
