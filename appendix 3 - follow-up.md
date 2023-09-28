@@ -39,7 +39,14 @@ As we inspected the items within the boxes, we identified comments such as "poss
 6. We used the [**FuzzyTrans.py**] script with varying thresholds to identify "similar" files and documented them:
 * For instance, we looked for minor alterations or additional content at the end of advertisements.
 * This is essential for research and usability purposes, as it enables a more accurate description of videos, preventing information overload.
-7. New documentation was added to the Master List, along with notes from the physical investigation of items. Additional notes for exact matches or similar items included identifying the analog format (e.g., 1" videotape P-1859-255669 vs. 3/4" videotape P-582-19665 vs. VHS videotape P-185-2085). These notes help determine the "original" or "most complete" copy of the ad, which can be handled accordingly. For example, 1" was created in 1956, 3/4" in 1971, and VHS in 1976.
+
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/16acef311a78b95739d5266e1a387381620d2bb0/images/fuzzytrans.png">
+
+
+7. New documentation was added to the Master List, along with notes from the physical investigation of items. Additional notes for exact matches or similar items included identifying the analog format (e.g., Betacam SP videotape P-1425-66940 vs. DVD-Optical P-1425-66937). These notes help determine the "original" or "most complete" copy of the ad, which can be handled accordingly. For example, [**Betacam SP videotape was created in 1975, DVD introduced in the late 1990's**](https://github.com/prys0000/political-commercial-collection-archives/blob/16acef311a78b95739d5266e1a387381620d2bb0/documentation/AV-Format-Cheat-Sheet.md).
+8. We were able to create chunks of video files organized by similarity or duplication and applied [**fuzzy-frames-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/16acef311a78b95739d5266e1a387381620d2bb0/video-compare-text/fuzzy-frames-1-template.py) to compare the similarity between two videos based on their frame features using OpenCV and numpy.
+
+<img src="
 
     
       
