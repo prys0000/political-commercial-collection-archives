@@ -1,0 +1,69 @@
+Initial Physical Inspection
+When re-processing the physical collections, we encountered several layers of complexity. I tried to give a very simple and short description of the issues followed with a section of questions for Kosuke and Bryce. 
+Assumptions
+1.	In the large cold room storage area, we found two separate groups of boxes, each with numbered labels. These labels included a large font number, with additional numbers below:
+•	Room one - Section one had shelves containing white plastic archival storage containers labeled from 1 to 928, with additional numbers below.
+•	Room one – Section two had individual film containers in mixed physical storage locations.
+•	Room two - Section two had shelves with a mix of box types (plastic and standard archival storage boxes) labeled from 1 to 2108, with additional numbers below.
+•	Room two – Section two had individual video containers in mixed physical storage locations.
+2.	We assumed that room one-section one contained film and older audio/video formats (16mm, 8mm, 1' videotape, 2" videotape, magnetic tape (sound)), while room two-section two contained the migrated copies (3/4" videotape, Beta SP, VHS, other iterations including cassettes, etc.).
+•	We also assumed the box numbers and item numbers on the boxes corresponded to other boxes or collection documentation. We discovered the boxes had no order and the numbering was simply the number of the box on the shelf. 
+Problems
+1.	The boxes in both sections did not match (e.g., box 1 in section one did not correspond to box 1 in section two).
+2.	The items inside the boxes did not match the labels (e.g., items in box 1 with labels 32556-32564 did not match the documentation, nor did they match the corresponding box in section two).
+3.	Many boxes contained items that may or may not have been documented in our records.
+4.	To address undocumented items, we visually match item numbers to the master worksheet, cross-referencing election years, dates, candidates, formats, and titles.
+5.	Some items are matched to multiple elements of the worksheet (e.g., title, election year, candidate), but missing unique identifiers or containing misidentified information were noted.
+6.	There vastness of the collection and the physical component of identification will be slow. 
+
+Physical and Digital Inspection
+As students inspected each physical box and its contents, they made several comments such as "possible duplicate," "similar to ---," "VC number does not match but is the same as --, etc." Concerns about exact duplications or similarities in ads prompted new methods to check current records against newly discovered physical items.
+Method (current)
+We combined all office metadata worksheets that had digital videos accounted for and underwent quality checks and metadata processing. Here's what we did:
+1.	We added the 'working' physical inspection notes/list to develop a new 'Master List.'
+2.	We utilized the [AV_Transcription-app(py)] to create transcriptions for the digital records listed on the Master list. We used .mp4 access copies for this purpose.
+3.	The transcripts were sorted:
+•	Exact matches in strings.
+•	All exact text was matched to each UNIQUE ID.
+•	'NOTES' were created in the 'NOTES' column to document all matching files. Legacy notes were retained and moved to a sub-column.
+•	Due to technology limitations and the extensive data, processing occurred systematically by 'office.'
+4.	We used [FuzzyTrans-app(py)] with varied thresholds to identify 'similar' files for documentation. This helped account for minor alterations in ads, ensuring more accurate descriptions for archivists and researchers.
+5.	We divided the list into 'Fuzzy' and 'Exact' and employed an 'out of the box' object detection model from TensorFlow (lstm_object_detection model) to gain insights quickly. The script [Fuzzy-frames-1-app(py)] was used and could be modified to adjust the threshold if needed. This helped identify differences in ads, such as 'bad recordings,' 'light and dark contrasts,' 'slates at the front,' etc.
+6.	Ads that were exact or almost exact (with differences not affecting the conveyed information) were noted with the analog format of that ad. This information helps determine the 'original' or 'most complete' copy of the ad, and iterations can be managed accordingly. 
+•	For example, if there are three items with 'exact' matches, we can determine the possible original format. This information is valuable for sorting physical items with multiple unique identifiers and for adding items to the collection in the future.
+Worksheet info:
+•	NOTES_PHYS: Student notes from box inspections.
+•	Items are not in any specific order in the boxes.
+•	Items are on obsolete formats, making digital inspection tedious (preservation, conservation, re-housing, obsolete equipment preparation).
+•	ADDIT-ID: additional items that are duplicates and analog format
+•	LEGACY_ID: Original identification numbers (no supporting documents to explain them).
+•	UNIQUE_ID: The final ID for each item, given by CAC
+•	NEWTRANS: transcripts and other information to determine content.
+•	[AV_Transcription-app(py)]
+•	Used SpeechRecognition, moviepy, PyQt5.
+•	Portable for students.
+•	[Fuzzy-AV_Transcriptions-app(py)]
+•	Used fuzzywuzzy
+•	[Fuzzy-frames-1-app(py)] (similarity scores to determine the next step):
+•	SSIM score
+•	MSE score
+•	Simple - opencv-python, numpy, skimage-metrics, PyQt5.
+•	Portable for students.
+•	ELECTION_YEAR: the election year
+•	FORMAT: analog format either in legacy documentation or added by student inspecting boxes
+•	NAME: the last_first name if an individual – creator if no individual 
+•	TITLE: legacy or added by students documenting the title (label)
+•	NOTES: notes of processes/scripts/results (abbreviated)
+•	NOTES-2 (legacy): information in the legacy notes 
+•	SUMMARY: legacy notes describing the summary (cleaned)
+ 
+** The results are sent back to the students to proceed with the physical inspection and arrangement. The ongoing process will result in new content.
+
+Questions for Kosuke and Bryce
+1.	How many duplicates of the ad would you like? (Please refer to the notes above for context.)
+
+2.	If we decide not to include multiple iterations of the same ad, I will make the necessary modifications to the worksheets and resubmit them to Google Cloud. Additionally, we will remove the corresponding videos. Are you in agreement with this approach?
+
+3.	Do you have any transcriptions ready that we could use for sorting, identification, and quality checks?
+
+4.	During our box inspections, we have come across many ads that have never been documented in this collection, totaling in the thousands. Our current plan is to incorporate these ads into the corpus after the project's completion. What are your thoughts?
