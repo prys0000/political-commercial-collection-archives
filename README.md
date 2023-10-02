@@ -40,7 +40,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **control methods**
 
-* [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/component-identification.md)
+* [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
 * [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
