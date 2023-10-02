@@ -42,7 +42,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 * [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
-* [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
+* [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/2ac2ee2f024bc7851aa1179fa2970eb880de4b2d/documentation/implementation-workflow.md)
 
 
 ### **implementation-workflow-phase 1 processes**
