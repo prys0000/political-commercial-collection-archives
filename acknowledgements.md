@@ -35,4 +35,4 @@
 * Management Information Systems (Fall 2023 - present)
     * Analog to digits fill digitization, preservation, mastering
     * Film and video technician (16mm, optical and magnetic sound trained; 8mm, optical and magnetic sound; 1" videotape; and all modern sound/video formats)
-    * Conervsation and prevention management
+    * Convservation and prevention management
