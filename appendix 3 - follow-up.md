@@ -54,6 +54,7 @@ As we inspected the items within the boxes, we identified comments such as "poss
     * Additional notes for exact matches or similar items included identifying the analog format. 
 
 9. With the new list of duplicates we were able to 'trace' the history of each file to determine archival reasoning for duplication, various identification numbers, and titles. Documentation was compiled from a number of records, notes, and indexes.
+**Note: the ads were donated by various television stations, at different dates, with different notes**
 
 </br>
 
