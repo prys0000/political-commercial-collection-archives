@@ -16,7 +16,9 @@ During the re-processing of our physical collections, we encountered various com
 
 </br>
 
+<img src="https://github.com/prys0000/political-commercial-collection-archives/blob/7a31331d5ea8cd38df97ffe8c36cd3b2b5d2e43c/images/room-1-2-burton-boxes.png">
 
+</br>
 
 **initial issues**
 1. Boxes in both sections did not align, meaning that "box 1" in section one did not correspond to "box 1" in section two.
