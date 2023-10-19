@@ -8,6 +8,8 @@
 
 * Configure at least one [**Python interpreter**](https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html)
 
+* Test your knowledge with a [**Practice Exercise**](https://github.com/prys0000/political-commercial-collection-archives/blob/c99b923969e740740fd8ab867d8ca29994d7def5/practice/practice%20exercises.md)
+
 **Each script is a template or starting point for development of your own processes. Each script is followed by basic instructions to get you started!**
 #
 ## audio processing/transcription scripts
