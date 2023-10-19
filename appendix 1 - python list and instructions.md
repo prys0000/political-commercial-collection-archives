@@ -106,7 +106,7 @@ Run the Code: After making the necessary modifications and ensuring the existenc
 # 
 ## text manipulation scripts
 
-### [**word-excel-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/excel-format-.py)
+### [**word-excel-1.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/d8e17aab8f26c9694509af3786e88d78f219a72a/practice/radio%20documents/word-excel-1.py#L4)
 This script takes a Word document (.docx) as input and converts its content into a formatted Excel file. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
