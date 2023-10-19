@@ -12,7 +12,7 @@
 #
 ## audio processing/transcription scripts
 
-### [**audio-recog.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/audio-recog.py)
+### [**audio-recog.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/d8e17aab8f26c9694509af3786e88d78f219a72a/speech-basic-test1/speech-1.py)
 This script performs speech recognition on audio files located in a specified folder. It uses the [SpeechRecognition](https://github.com/Prabal1902/Simple-Python-speech-recognition) library (speech_recognition) to convert speech in audio files into text and outputs results in formatted excel. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
