@@ -135,7 +135,7 @@ import os
 
 #
 #
-### [**combo-replace-add-class.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/combo-replace-add-class.py)
+### [**comborepadd-class.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/d8e17aab8f26c9694509af3786e88d78f219a72a/practice/radio%20documents/combo-replace-add-class.py#L4)
 This script demonstrates data processing and manipulation using the pandas library. It involves loading data from an Excel file, applying transformations to the data, and saving the results to a new Excel file. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -167,7 +167,7 @@ import pandas as pd
 #
 #
 
-### [**names-extract.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/names-extraction.py)
+### [**names-extract.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/ece65920deb4139f5886cd9cad36c0fc6bc0cf20/practice/radio%20documents/names-extraction.py#L4)
 This script extracts proper nouns (defined) from text data stored in an Excel file by using [nltk-ner tools](https://github.com/nltk/nltk). Named entities are real-world objects such as names of people, organizations, locations, dates, etc...(***see the next script for information on the simple creation of training a model to address specific content i.e. political science terminology)
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -223,7 +223,7 @@ Run the Code: After making the necessary modifications and ensuring the existenc
 #
 #
 
-### [**pattern-structure2i.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/radio%20documents/pattern-font-structure-date(2i).py)
+### [**pattern-structure2i.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/ece65920deb4139f5886cd9cad36c0fc6bc0cf20/practice/radio%20documents/pattern-structure2i.py#L4)
 This script is used to format and highlight dates (editable terms, dates, structures depending on definition) in a Word document and transform to defined lists/standards. 
 
 Install Required Libraries: Before running the code, ensure that you have installed the required libraries. You can install them using pip as follows:
@@ -254,7 +254,7 @@ import os
 #
 #
 
-### [nltk-training-1]
+### [nltk-training-1](https://github.com/prys0000/political-commercial-collection-archives/blob/ece65920deb4139f5886cd9cad36c0fc6bc0cf20/practice/radio%20documents/start-nltk.py#L4)
 To use existing political science data as your dataset for fine-tuning an NER model, you would need a collection of text data relevant to political science, such as academic papers, news articles, reports, or any other text sources that contain named entities related to politics, politicians, organizations, political parties, countries, etc.
 
 Next, you would need to annotate this data with named entities. The annotations would involve marking specific spans of text that represent named entities and assigning labels to them (e.g., PERSON, ORG, GPE for people, organizations, and geopolitical entities).
@@ -288,7 +288,7 @@ Now you have the pre-trained spaCy model with NER loaded, and you can use it for
 #
 #
 
-### [nltk-trained-use-2]
+### [nltk-trained-use-2](https://github.com/prys0000/political-commercial-collection-archives/blob/ece65920deb4139f5886cd9cad36c0fc6bc0cf20/practice/radio%20documents/1-start-nltk.py#L4)
 This script allows you to use the trained model to analyze and extract named entities from (.pdf, .docx, .csv, .xlsx, etc...)
 
 Load the trained NER model: Use the spacy.load function to load your trained NER model. 
@@ -336,7 +336,7 @@ Analyze the results: The code above will print out the named entities and their 
 #
 #
 
-### [**listwords-comp-text.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/video-compare-text/listwords-comp-text.py)
+### [**listwords-comp-text.py**](https://github.com/prys0000/political-commercial-collection-archives/blob/ece65920deb4139f5886cd9cad36c0fc6bc0cf20/video-compare-text/listwords-comp-text.py#L4)
 This script compares two text files and identifies the differing words between them using the [difflib library](https://github.com/python/cpython/blob/main/Lib/difflib.py). It then saves the differing words to a new text file called differing_words.txt.
 
 Here are the instructions to use the code:
