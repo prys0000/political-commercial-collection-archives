@@ -2,7 +2,7 @@
 
 ## install Python and configure PyCharm
 
-* Setting up the environment [**cheat sheet**](https://github.com/prys0000/congressional-portal-project/blob/main/setting-up.md) 
+* Setting up the environment [**cheat sheet**](https://github.com/prys0000/political-commercial-collection-archives/blob/92544f4d9d75a8ad9b4c42e75aded69a60a5c10e/documentation/1-setting-up-environment.md) 
 
 * Download and install [**Python**](http://www.python.org/) -- Windows user, we recommend that you install [**Python for Windows**](https://www.python.org/downloads/windows/)
 
