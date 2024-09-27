@@ -1,4 +1,4 @@
-# accuray testing - **[whisper AI](https://openai.com/index/whisper/)** vs **[gensim and NLTK](https://www.nltk.org/howto/gensim.html)**:
+# accuracy testing - **[whisper AI](https://openai.com/index/whisper/)** vs **[gensim and NLTK](https://www.nltk.org/howto/gensim.html)**:
 
 <br>
 This comparison report was created by analyzing transcription and summary creation data using the Openai version of whisper AI and the free version of gensim and NLTK. There are [9707 presidential campaign ads](https://vimeo.com/showcase/11287923) used as the fileset. The length of the ads varies from 15 seconds to 1 minute. 
