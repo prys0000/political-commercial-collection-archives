@@ -6,9 +6,9 @@ The [Carl Albert Center Archives](https://www.ou.edu/carlalbertcenter/congressio
 
 The project has three specific aims: (1) make a large underutilized collection of  over 120,000 political ads (1912-2016) currently housed at the Carl Albert Center suitable for academic and non-academic research; (2) understand the evolution of political advertising; especially as it pertains to issue advocacy and gender/minority representations before 1996; and, (3) promote interdisciplinary graduate and undergraduate education in audiovisual analysis at research and teaching institutions. ​
 
-The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. Despite the initial challenges encountered, the project has provided invaluable insights and knowledge. This page was created to document our processes and share solutions that may benefit other collection entities. 
+The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. Despite the initial challenges, the project has provided invaluable insights and knowledge. This page documents our processes and shares solutions that may benefit other collection entities. 
 
-This repository contains a collection of **workflow tools, Python scripting templates, resources, practice exercises, and other useful tools** developed throughout the initial phases of this project. 
+This repository contains a collection of **workflow tools, Python scripting templates, resources, practice exercises, and other useful tools** developed throughout the project's initial phases. 
 
 ***The repository is regularly updated with additional materials and the latest processes.*** 
 
@@ -40,7 +40,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 ### **control methods**
 
-* [**unified component identificiation P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
+* [**unified component identification P_COPY-OID**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/documentation/control-methods.md)
 
 * [**data cleansing, aggregation, integration, forensic tools**](https://github.com/prys0000/political-commercial-collection-archives/blob/2ac2ee2f024bc7851aa1179fa2970eb880de4b2d/documentation/implementation-workflow.md)
 
@@ -69,7 +69,7 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 * [**appendix 2.1 -  creating transcriptions and summaries (free)**](https://github.com/prys0000/political-commercial-collection-archives/blob/3cb9d49951842cb73c768ce944f59dbc0e305f13/appendix%202.1%20-%20free%20transcription%20and%20summaries%20workflow.md)
 
-* [**appendix 2.2 -  accuracy testing - whisper AI vs gensim and NLTK:**](https://github.com/prys0000/political-commercial-collection-archives/blob/3cb9d49951842cb73c768ce944f59dbc0e305f13/appendix%202.2%20-%20accuracy%20testing.md)
+* [**appendix 2.2 -  accuracy testing - whisper AI vs gensim and NLTK**](https://github.com/prys0000/political-commercial-collection-archives/blob/3cb9d49951842cb73c768ce944f59dbc0e305f13/appendix%202.2%20-%20accuracy%20testing.md)
 
   * [general references]
 
