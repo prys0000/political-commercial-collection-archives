@@ -4,18 +4,18 @@
 
 The [Carl Albert Center Archives](https://www.ou.edu/carlalbertcenter/congressional-collection), along with Harvard University and the University of Iowa, was awarded collaborative research grant funds from the National Science Foundation (NSF) for the project ["Understanding the Evolution of Political Campaign Advertisements over the Last Century"](https://s-lib024.lib.uiowa.edu/campaignvids/people.html).
 
-The project has three specific aims: (1) make a large underutilized collection of  over 120,000 political ads (1912-2016) currently housed at the Carl Albert Center suitable for academic and non-academic research; (2) understand the evolution of political advertising, especially as it pertains to issue advocacy and gender/minority representations prior to 1996; and, (3) promote interdisciplinary graduate and undergraduate education in audiovisual analysis at research and teaching institutions. ​
+The project has three specific aims: (1) make a large underutilized collection of  over 120,000 political ads (1912-2016) currently housed at the Carl Albert Center suitable for academic and non-academic research; (2) understand the evolution of political advertising; especially as it pertains to issue advocacy and gender/minority representations before 1996; and, (3) promote interdisciplinary graduate and undergraduate education in audiovisual analysis at research and teaching institutions. ​
 
-The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. The project has provided invaluable insights and knowledge, despite the initial challenges encountered. This page was created to document our processes and share solutions which may benefit other collection entities. 
+The Carl Albert Center Archives' task focused on the first aim (1) by providing reliable content for collaborator analysis. Despite the initial challenges encountered, the project has provided invaluable insights and knowledge. This page was created to document our processes and share solutions that may benefit other collection entities. 
 
-This repository contains a collection of **workflow tools, Python scripting templates, resources, practice exercises and other useful tools** developed throughout our initial phases of this project. 
+This repository contains a collection of **workflow tools, Python scripting templates, resources, practice exercises, and other useful tools** developed throughout the initial phases of this project. 
 
 ***The repository is regularly updated with additional materials and the latest processes.*** 
 
 ## **key research components**
 
 - Address the challenges of insufficient documentation, undefined workflows, and limited funding in managing the growing collection of political ads.
-- Develop workflows to effectively manage the existing collection of political ads.
+- Develop workflows to manage the existing collection of political ads effectively.
 - Define strategies to ensure the long-term accessibility and usability of its digital political ad collection.
 - Explore and define practical solutions and best practices in managing and preserving large archival collections in academic settings.
 
@@ -67,9 +67,9 @@ This repository contains a collection of **workflow tools, Python scripting temp
 
 * [**appendix 2 - common workflows for audio and video file transcriptions**](https://github.com/prys0000/political-commercial-collection-archives/blob/main/appendix%202%20-%20common-workflows-transcriptions.md)
 
-* [**appendix 2 data accuracy index**]
+* [**appendix 2.1 -  creating transcriptions and summaries (free)**](https://github.com/prys0000/political-commercial-collection-archives/blob/3cb9d49951842cb73c768ce944f59dbc0e305f13/appendix%202.1%20-%20free%20transcription%20and%20summaries%20workflow.md)
 
-* [**appendix 3 additional resources**]
+* [**appendix 2.2 -  accuracy testing - whisper AI vs gensim and NLTK:**](https://github.com/prys0000/political-commercial-collection-archives/blob/3cb9d49951842cb73c768ce944f59dbc0e305f13/appendix%202.2%20-%20accuracy%20testing.md)
 
   * [general references]
 
