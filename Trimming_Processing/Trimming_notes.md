@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script (`1trim_nowm.py`)[https://github.com/prys0000/political-commercial-collection-archives/blob/bdb535d0ca1affdeae444c99071d6fe30684ebef/scripts/trim_nowm.py] is an enhanced video processing pipeline designed to automatically detect content boundaries in videos and trim them with appropriate padding. The script uses a combination of visual person detection and audio speech recognition, with special filtering to distinguish between actual speech and pure tones or beeps, which can cause incorrect trimming points.
+This Python script [1trim_nowm.py](https://github.com/prys0000/political-commercial-collection-archives/blob/bdb535d0ca1affdeae444c99071d6fe30684ebef/scripts/trim_nowm.py) is an enhanced video processing pipeline designed to automatically detect content boundaries in videos and trim them with appropriate padding. The script uses a combination of visual person detection and audio speech recognition, with special filtering to distinguish between actual speech and pure tones or beeps, which can cause incorrect trimming points.
 
 ## Key Features
 
