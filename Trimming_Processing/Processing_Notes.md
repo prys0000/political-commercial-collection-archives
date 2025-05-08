@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script (`fast_house_pipeline.py`) implements a comprehensive end-to-end pipeline for analyzing political campaign advertisements. The system processes video files through multiple stages of analysis to extract transcripts, key visual frames, AI-generated descriptions, and concise summaries. This multimodal approach combines audio transcription, computer vision, and natural language processing to create a rich dataset for political advertisement research.
+This script [fast_house_pipeline.py](https://github.com/prys0000/political-commercial-collection-archives/blob/c97381ea544ab1032515425bdd86b11b357e34b3/scripts/summarizeAI.py) implements a comprehensive end-to-end pipeline for analyzing political campaign advertisements. The system processes video files through multiple stages of analysis to extract transcripts, key visual frames, AI-generated descriptions, and concise summaries. This multimodal approach combines audio transcription, computer vision, and natural language processing to create a rich dataset for political advertisement research.
 
 ## Pipeline Workflow
 
